@@ -1,0 +1,27 @@
+= My Wiki
+
+:icons: font
+
+This repo contains the source code (master branch) of my wiki ( https://paulojeronimo.github.io/wiki ) published on (https://github.com/paulojeronimo/wiki/tree/gh-pages[gh-pages^] branch).
+
+It uses https://tiddlywiki.com/[TiddlyWiki^] and is built with https://travis-ci.org/[Travis CI^] on each git commit.
+
+The link:publish.sh[], configured in link:.travis.yml[], is called by Travis CI after wiki build (with `tiddlywiki` command) on each `commit` (and `push`) to this repo.
+
+== Editing this wiki locally
+
+It may be a good idea to edit and see this wiki locally before publish it to GitHub Pages.
+
+To do this, you need to install https://tiddlywiki.com/static/TiddlyWiki%2520on%2520Node.js.html[Tiddlywiki Node.js^] package (`npm install tiddlywiki`) and run the following command:
+
+----
+$ tiddlywiki wiki --listen
+----
+
+Open the browser on http://localhost:8080 and edit the wiki.
+
+NOTE: You can also run a https://github.com/djmaze/tiddlywiki-docker[TiddlyWiki Docker] container if you want.
+
+== References
+
+* https://github.com/danielo515/TW5-auto-publish2gh-pages/blob/master/README.md[danielo515/TW5-auto-publish2gh-pages README.md^].
