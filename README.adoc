@@ -15,7 +15,7 @@ It may be a good idea to edit and see this wiki locally before publish it to Git
 To do this, you need to install https://tiddlywiki.com/static/TiddlyWiki%2520on%2520Node.js.html[Tiddlywiki Node.js^] package (`npm install tiddlywiki`) and run the following command:
 
 ----
-$ tiddlywiki wiki --listen
+$ ./local-run.sh
 ----
 
 Open the browser on http://localhost:8080 and edit the wiki.

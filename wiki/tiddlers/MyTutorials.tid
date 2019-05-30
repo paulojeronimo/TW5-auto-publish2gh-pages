@@ -1,0 +1,15 @@
+created: 20190530154416853
+modified: 20190530155548216
+title: MyTutorials
+type: text/vnd.tiddlywiki
+
+* See repositories with 'tutorial' in the name on [[my GitHub account|MyGitHubAccount]] (and also on organizations that I participate). Some of my last tutorials:
+** [[keycloak-spring-boot-tutorial|https://github.com/paulojeronimo/keycloak-spring-boot-tutorial]]
+** [[bosh-lite-tutorial|https://github.com/paulojeronimo/bosh-lite-tutorial]]
+** [[uaa-tutorial|https://github.com/paulojeronimo/uaa-tutorial]]
+** [[apache-nifi-tutorial|https://github.com/paulojeronimo/apache-nifi-tutorial]]
+** [[spring-cloud-dataflow-tutorial|https://github.com/paulojeronimo/spring-cloud-dataflow-tutorial]]
+** [[ethereum-pet-shop-tutorial|https://github.com/paulojeronimo/ethereum-pet-shop-tutorial]]
+** [[ethereum-tutorial-cotidiano|https://github.com/paulojeronimo/ethereum-tutorial-cotidiano]]
+** [[blockchain-demo|https://github.com/blockchain4devs/blockchain-demo]]
+* ''TODO'': Rewrite this tidller to fetch this list automatically.

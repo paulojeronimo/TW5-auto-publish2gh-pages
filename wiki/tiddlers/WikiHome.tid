@@ -1,11 +1,12 @@
 created: 20190529203639355
 creator: danielo515
-modified: 20190529204212075
+modified: 20190530154357782
 title: WikiHome
 type: text/vnd.tiddlywiki
 
 * [[Home|https://paulojeronimo.github.io/]]
-* [[Who am I|https://paulojeronimo.github.io/whoami/]]
-* Tutorials
-* Projects
-* What I am doing now
+* [[Who am I|WhoAmI]]
+** [[Curriculum Vitae|MyCv]]
+* [[My current goals|CurrentGoals]]
+* [[Tutorials that I wrote|MyTutorials]]
+* [[Projects that I created|MyProjects]]
