@@ -1,11 +1,7 @@
 created: 20190530211503225
-modified: 20190530211518006
+modified: 20190602154248963
 tags: 
 title: GoalsOf2019Week23
 type: text/vnd.tiddlywiki
 
-* Rewrite my [[Home|https://paulojeronimo.github.io/]] page using [[React|React]] and [[Next.js|NextJS]].
-* Update my [[WhoAmI]] presentation.
-* Finish the update for both English and Portuguese versions of [[my CV|MyCv]].
-* Release the first version of [[finisher.tech's website|FinisherTech]].
-* Finish and release the elementary first version of [[finisher.tech's Tabata app|FinisherTechTabataApp]].
+<<list-links "[tag[GoalsOf2019Week23]sort[title]]">>
