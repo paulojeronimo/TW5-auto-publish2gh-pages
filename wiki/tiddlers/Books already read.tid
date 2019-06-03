@@ -1,10 +1,10 @@
 caption: Already read
+color: #00fcff
 created: 20190530131517187
-modified: 20190603103851712
+modified: 20190603182755897
 tags: Books
 title: Books already read
 type: text/vnd.tiddlywiki
 
-!! 2019:
-* Week 20:
-** [[Faça Tempo: 4 passos para definir suas prioridades e não adiar mais nada|http://j.mp/2I5usou]]
+!! [[Already read|Books already read]]:
+<<list-links "[tag[$(currentTiddler)$]sort[title]]">>
