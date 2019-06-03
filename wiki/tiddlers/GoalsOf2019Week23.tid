@@ -1,7 +1,17 @@
 created: 20190530211503225
-modified: 20190602154248963
+modified: 20190603133918432
 tags: 
 title: GoalsOf2019Week23
 type: text/vnd.tiddlywiki
 
-<<list-links "[tag[GoalsOf2019Week23]sort[title]]">>
+!! Jun 03 - Jun 09 ([[Week 23|GoalsOf2019Week23]]):
+<$list filter="[tag[GoalsOf2019Week23]!tag[done]sort[created]]">
+
+<$checkbox tag="done"> <$link to={{!!title}}><$view field="title"/></$link></$checkbox>
+
+</$list>
+<$list filter="[tag[GoalsOf2019Week23]tag[done]sort[created]]">
+
+<$checkbox tag="done"> ~~<$link to={{!!title}}><$view field="title"/></$link>~~</$checkbox>
+
+</$list>

@@ -1,8 +1,9 @@
 created: 20190530155218255
-modified: 20190602152818010
-tags: WikiHome
+list: 
+modified: 20190603115517824
+tags: TableOfContents
 title: Projects
 type: text/vnd.tiddlywiki
 
-* [[finisher.tech]]
+* [[finisher.tech|FinisherTech]]
 * Other: see [[my GitHub account|MyGitHubAccount]].

@@ -1,12 +1,11 @@
 created: 20190530152854661
-modified: 20190602152049650
-tags: WikiHome
+list: 
+modified: 20190602182041138
+tags: TableOfContents
 title: Curriculum Vitae
 type: text/vnd.tiddlywiki
 
-* English version:
-** https://paulojeronimo.github.io/cv/en
-* Portuguese version (TODO):
-** ~https://paulojeronimo.github.io/cv/pt-br
+{{English CV}}
+{{Portuguese CV}}
 * Source code:
 ** https://github.com/paulojeronimo/cv

@@ -1,0 +1,17 @@
+created: 20190602181408128
+modified: 20190603142120538
+tags: [[Current goals]]
+title: GoalsOf2019Week22To33
+type: text/vnd.tiddlywiki
+
+!! May 27 - Aug 18 ([[Weeks 22 to 33|GoalsOf2019Week22To33]]):
+<$list filter="[tag[GoalsOf2019Week22To33]!tag[done]sort[created]]">
+
+<$checkbox tag="done"> <$link to={{!!title}}><$view field="title"/></$link></$checkbox>
+
+</$list>
+<$list filter="[tag[GoalsOf2019Week22To33]tag[done]sort[created]]">
+
+<$checkbox tag="done"> ~~<$link to={{!!title}}><$view field="title"/></$link>~~</$checkbox>
+
+</$list>
