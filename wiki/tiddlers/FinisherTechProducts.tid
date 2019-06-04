@@ -1,13 +1,9 @@
 caption: /products
 color: #ff9200
 created: 20190530161844373
-modified: 20190603182746144
+modified: 20190604132014551
 tags: FinisherTech
 title: FinisherTechProducts
 type: text/vnd.tiddlywiki
 
-# [[Tabata App|FinisherTechTabataApp]]
-# Sportive Calendar
-# Run4Money
-# Workout4Money
-# AthleteCV
+<<list-links [tag[$(currentTiddler)$]sort[title]]>>

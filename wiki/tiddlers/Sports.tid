@@ -1,0 +1,9 @@
+created: 20190604114644517
+modified: 20190604120620597
+tags: TableOfContents
+title: Sports
+type: text/vnd.tiddlywiki
+
+I usually practice my favorite sports (below) at least a one-time moment per day (even for a short amount of time), seven days per week.
+
+<<list-links "[tag[$(currentTiddler)$]sort[title]]">>

@@ -1,10 +1,10 @@
 created: 20190530144928906
-modified: 20190530162310575
+modified: 20190604130800666
 title: RioHalfMarathon
 type: text/vnd.tiddlywiki
 
 ! 2019:
 * 21 km running on the seafront of Rio de Janeiro.
 ** Date: August 18.
-** Expected time: 1 hour, 45 minutes.
-* Details: http://www.yescom.com.br/2019/riohalfmarathon#
+* Web site: http://www.yescom.com.br/2019/riohalfmarathon
+* Goals: <<list-links "[tag[$(currentTiddler)$]sort[title]]">>
