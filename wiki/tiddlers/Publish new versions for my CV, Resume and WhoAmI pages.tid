@@ -1,0 +1,7 @@
+created: 20190614203426074
+modified: 20190614211449694
+tags: GoalsOf2019Week22To33
+title: Publish new versions for my CV, Resume and WhoAmI pages
+type: text/vnd.tiddlywiki
+
+<<list-links "[tag[$(currentTiddler)$]sort[title]]">>

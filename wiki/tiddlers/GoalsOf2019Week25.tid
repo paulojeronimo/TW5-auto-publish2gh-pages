@@ -1,0 +1,17 @@
+created: 20190614190541261
+modified: 20190614220145049
+tags: [[Next week]]
+title: GoalsOf2019Week25
+type: text/vnd.tiddlywiki
+
+!! Jun 17 - Jun 23 ([[Week 25|GoalsOf2019Week25]]):
+<$list filter="[tag[GoalsOf2019Week25]!tag[done]sort[created]]">
+
+<$checkbox tag="done"> <$link to={{!!title}}><$view field="title"/></$link></$checkbox>
+
+</$list>
+<$list filter="[tag[GoalsOf2019Week25]tag[done]sort[created]]">
+
+<$checkbox tag="done"> ~~<$link to={{!!title}}><$view field="title"/></$link>~~</$checkbox>
+
+</$list>

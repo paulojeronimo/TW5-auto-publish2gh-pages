@@ -1,0 +1,10 @@
+created: 20190614221004953
+modified: 20190614221748088
+tags: [[Improve my wiki]]
+title: Evalute and install some useful plugins
+type: text/vnd.tiddlywiki
+
+!! GoalsOf2019Week24:
+* Installed plugins:
+** $:/plugins/danielo/encryptTiddler
+** $:/plugins/tgrosinger/tw5-checklist

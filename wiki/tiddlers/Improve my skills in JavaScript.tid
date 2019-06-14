@@ -1,9 +1,10 @@
 created: 20190602153730147
-modified: 20190603125909218
-tags: GoalsOf2019Week23 GoalsOf2019Week22
+modified: 20190614214627513
+tags: GoalsOf2019Week25 GoalsOf2019Week23 GoalsOf2019Week22
 title: Improve my skills in JavaScript
 type: text/vnd.tiddlywiki
 
 * Review the content of the following courses:
-** [[JavaScript Masterclass 2019: Modern & Comprehensive|http://j.mp/2I8iCdn]].
-** [[Modern React with Redux [2019 Update]|http://j.mp/2KiXbZT]].
+
+[x] [[JavaScript Masterclass 2019: Modern & Comprehensive|http://j.mp/2I8iCdn]]
+[ ] [[Modern React with Redux [2019 Update]|http://j.mp/2KiXbZT]]

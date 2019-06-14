@@ -1,14 +1,14 @@
 created: 20190530124401110
-modified: 20190613225411461
+modified: 20190614205820886
 tags: TableOfContents
 title: Current goals
 type: text/vnd.tiddlywiki
+
+! For 12 weeks:
+{{GoalsOf2019Week22To33}}
 
 ! This week:
 {{This week}}
 
 ! Next week:
 {{Next week}}
-
-! For 12 weeks:
-{{GoalsOf2019Week22To33}}
