@@ -1,0 +1,12 @@
+#!/usr/bin/env bash
+
+[ "$BASE_DIR" ] || { echo "BASE_DIR not defined!"; exit 1; }
+
+found=false
+for cfg in config{,.sample}
+do
+  source "$BASE_DIR"/$cfg 2> /dev/null && { found=true; break; }
+done
+$found || echo "$cfg not found!"
+
+echo "Configurations loaded from \"$cfg\" ..."

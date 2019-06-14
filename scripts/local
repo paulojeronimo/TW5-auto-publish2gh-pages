@@ -1,0 +1,27 @@
+#!/usr/bin/env bash
+DEBUG=${DEBUG:-false}
+$DEBUG && set -x || set +x
+
+BASE_DIR=`cd "$(dirname "$0")"; pwd`
+source "$BASE_DIR"/common
+
+# If TiddlyWiki isn't installed, exit!
+which tiddlywiki &> /dev/null || {
+  echo "TiddlyWiki is not installed!"
+  echo "Try run this: $0 install"
+  exit 1
+}
+
+cd "$WIKI_BASE_DIR"
+
+install() {
+  npm install tiddlywiki
+}
+
+start() {
+  tiddlywiki $WIKI --listen host=$WIKI_BIND port=$WIKI_PORT
+}
+
+[ "$1" ] && {
+  type "$1" > /dev/null && $1
+} || echo "$0 <install|start>"

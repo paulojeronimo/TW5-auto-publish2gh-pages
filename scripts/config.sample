@@ -1,0 +1,9 @@
+#!/usr/bin/env bash
+
+WIKI_BASE_DIR=`cd "$BASE_DIR"/..; pwd`
+WIKI_BIND=127.0.0.1
+WIKI_PORT=8888
+WIKI=wiki
+
+DOCKER_IMAGE_NAME=paulojeronimo/tiddlywiki
+DOCKER_IMAGE_VERSION=latest

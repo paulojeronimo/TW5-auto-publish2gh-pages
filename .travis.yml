@@ -4,10 +4,8 @@ node_js:
 before_script:
   - npm install -g tiddlywiki
 script: tiddlywiki ./*wiki --build
-
 after_success:
-  - bash ./publish.sh
-
+  - bash ./scripts/publish
 branches:
   only:
     - master

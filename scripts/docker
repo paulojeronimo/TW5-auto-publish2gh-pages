@@ -1,0 +1,33 @@
+#!/usr/bin/env bash
+DEBUG=${DEBUG:-false}
+$DEBUG && set -x || set +x
+
+BASE_DIR=`cd "$(dirname "$0")"; pwd`
+source "$BASE_DIR"/common
+
+build() {
+  cd "$BASE_DIR"/..
+  docker build -t $DOCKER_IMAGE_NAME:$DOCKER_IMAGE_VERSION .
+}
+
+start() {
+  docker run --detach --rm \
+    --name tiddlywiki \
+    --publish $WIKI_BIND:$WIKI_PORT:8080 \
+    --mount "type=bind,source=${WIKI_BASE_DIR},target=/tiddlywiki" \
+    $DOCKER_IMAGE_NAME \
+    $WIKI \
+    --listen host=0.0.0.0
+}
+
+stop() {
+  docker stop tiddlywiki
+}
+
+rmi() {
+  docker rmi $DOCKER_IMAGE_NAME
+}
+
+[ "$1" ] && {
+  type "$1" > /dev/null && $1
+} || echo "$0 <build|start|stop|rmi>"
