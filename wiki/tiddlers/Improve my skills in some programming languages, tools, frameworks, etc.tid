@@ -1,0 +1,16 @@
+created: 20190603141106178
+modified: 20190615160513826
+tags: GoalsOf2019Week22To33
+title: Improve my skills in some programming languages, tools, frameworks, etc
+type: text/vnd.tiddlywiki
+
+<<tag ImproveMySkills>>
+
+* In the followinng programming languages (and related things):
+** <<tag JavaScript>> including frameworks like <<tag React>> and <<tag ReactNative>>.
+** <<tag Python>>
+** <<tag Kotlin>>
+** <<tag Solidity>>
+
+* In Devops related things including: <<tag Bash>>, <<tag Docker>>, <<tag Kubernetes>>, <<tag Ansible>>, etc.
+
