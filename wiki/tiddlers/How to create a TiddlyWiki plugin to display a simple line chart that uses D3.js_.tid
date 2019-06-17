@@ -1,0 +1,11 @@
+created: 20190617143104476
+modified: 20190617144153127
+tags: JavaScript GoalsOf2019Week25 D3.js Article TiddlyWiki
+title: How to create a TiddlyWiki plugin to display a simple line chart that uses D3.js?
+type: text/vnd.tiddlywiki
+
+* References:
+** http://d3jsv5trial.tiddlyspot.com/
+** https://ooktech.com/jed/ExampleWikis/d3plugin/
+** https://bl.ocks.org/mbostock/1093025
+** https://github.com/liufly/Dual-scale-D3-Bar-Chart
