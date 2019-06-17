@@ -1,11 +1,11 @@
 created: 20190530152229773
 list: 
-modified: 20190615185258307
+modified: 20190617111150751
 tags: TableOfContents
 title: Hello
 type: text/vnd.tiddlywiki
 
-You arrive in my (Paulo Jerônimo's) wiki: a [[TiddlyWiki]].
+You arrived in my (Paulo Jerônimo's) wiki: a [[TiddlyWiki]].
 
 Here I write things related to [[what I'm currently doing|Current goals]] and my [[projects|Projects]].
 
@@ -21,7 +21,7 @@ This wiki is also where I insert some notes about [[books|Books]] that I read.
 Doing my job, I need to remember things related to what I'm learning or creating.
 So, I like to write [[articles|Articles]] and [[tutorials|Tutorials that I wrote]].
 Writing texts using markup languages and text editors like [[Vim]] really make me productive.
-So I like to produce documents in [[AsciiDoc]] format and I do such kind of writing [[since 2014|https://github.com/paulojeronimo/livro-jboss]].
+So I started to produce documents in [[AsciiDoc]] format, and I do such kind of writing [[since 2014|https://github.com/paulojeronimo/livro-jboss]].
 But, before that, I also was a [[Txt2tags]] and TiddlyWiki user.
 So, I also like to write things in [[WikiText|https://tiddlywiki.com/#WikiText]] format.
 

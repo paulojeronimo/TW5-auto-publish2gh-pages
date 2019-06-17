@@ -2,7 +2,7 @@
 
 WIKI_BASE_DIR=`cd "$BASE_DIR"/..; pwd`
 WIKI_BIND=127.0.0.1
-WIKI_PORT=8888
+WIKI_PORT=8080
 WIKI=wiki
 
 DOCKER_IMAGE_NAME=paulojeronimo/tiddlywiki

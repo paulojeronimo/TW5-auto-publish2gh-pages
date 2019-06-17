@@ -1,11 +1,12 @@
+caption: This week (25: Jun 17 - 23)
 color: #0432ff
 created: 20190614190541261
-modified: 20190615183918225
-tags: [[Next week]]
+modified: 20190617105823170
+tags: [[Current goals]]
 title: GoalsOf2019Week25
 type: text/vnd.tiddlywiki
 
-!! Jun 17 - Jun 23 ([[Week 25|GoalsOf2019Week25]]):
+!! [[Jun 17 - Jun 23|https://weeknumber.net/25]] ([[Week 25|GoalsOf2019Week25]]):
 <$list filter="[tag[GoalsOf2019Week25]!tag[done]sort[created]]">
 
 <$checkbox tag="done"> <$link to={{!!title}}><$view field="title"/></$link></$checkbox>
