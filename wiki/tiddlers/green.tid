@@ -1,0 +1,11 @@
+created: 20190619190943998
+modified: 20190619191543935
+title: green
+type: text/vnd.tiddlywiki
+
+\define green(text)
+@@color:green;
+$text$
+@@
+\end
+<$macrocall $name="green" text={{!!title}}/>

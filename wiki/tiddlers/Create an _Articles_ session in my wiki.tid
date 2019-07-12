@@ -1,8 +1,6 @@
 created: 20190615160809781
-modified: 20190615183251094
+modified: 20190711204101362
 tags: ImproveMyWiki GoalsOf2019Week24 done
 title: Create an "Articles" session in my wiki
 type: text/vnd.tiddlywiki
 
-Articles to write:
-<<list-links "[tag[Article]sort[title]]">>

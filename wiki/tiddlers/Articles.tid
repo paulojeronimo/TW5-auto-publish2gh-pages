@@ -1,7 +1,7 @@
 created: 20190615170733153
-modified: 20190615180803719
+modified: 20190711204114814
 tags: TableOfContents
 title: Articles
 type: text/vnd.tiddlywiki
 
-{{Create an "Articles" session in my wiki}}
+<<list-links "[tag[Article]sort[title]]">>

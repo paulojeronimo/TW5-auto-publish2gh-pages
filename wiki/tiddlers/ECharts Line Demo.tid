@@ -1,0 +1,15 @@
+created: 20190711204126575
+modified: 20190711213106447
+tags: Article
+title: ECharts Line Demo
+type: text/vnd.tiddlywiki
+
+* [[ECharts Line Demo|https://echarts.apache.org/examples/en/editor.html?c=line-style]] (TODO: configure it alive as on my solution with D3.js)
+* D3.js vs EChars:
+** https://www.npmtrends.com/d3-vs-echarts
+** https://js.libhunt.com/compare-echarts-vs-d3
+* Integrated use with:
+** Tiddlywiki:
+*** https://oxydum.github.io/tiddlyecharts/
+** Vue.js:
+*** https://ecomfe.github.io/vue-echarts/demo/

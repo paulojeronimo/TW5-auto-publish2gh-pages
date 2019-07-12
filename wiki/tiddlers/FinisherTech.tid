@@ -1,11 +1,12 @@
 caption: finisher.tech
 color: #ff9200
 created: 20190530141440568
-modified: 20190603182642389
+modified: 20190711222012337
 tags: FinisherTech Projects
 title: FinisherTech
 type: text/vnd.tiddlywiki
 
-My company focused on the development of products health prevention area and sports.
+My company focused on the development of software products health prevention area and sports.
 
 * [[Products|FinisherTechProducts]]
+* [[Technologies|FinisherTechTechnologies]]

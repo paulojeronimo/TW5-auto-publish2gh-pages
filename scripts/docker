@@ -10,6 +10,10 @@ build() {
   docker build -t $DOCKER_IMAGE_NAME:$DOCKER_IMAGE_VERSION .
 }
 
+push() {
+  docker push $DOCKER_IMAGE_NAME:$DOCKER_IMAGE_VERSION
+}
+
 start() {
   docker run --detach --rm \
     --name tiddlywiki \
@@ -31,3 +35,5 @@ rmi() {
 [ "$1" ] && {
   type "$1" > /dev/null && $1
 } || echo "$0 <build|start|stop|rmi>"
+
+# vim: set ts=2 sw=2 et:
