@@ -1,0 +1,114 @@
+created: 20170612201324999
+modified: 20190729120035408
+tags: 
+title: $:/tools/ToggleAdmin
+type: text/vnd.tiddlywiki
+
+<$button><!-- "Read Only Mode" Settings /-->
+<$action-setfield $tiddler="$:/config/PageControlButtons/Visibility/$:/core/ui/Buttons/control-panel" text="hide"/>
+<$action-setfield $tiddler="$:/config/PageControlButtons/Visibility/$:/core/ui/Buttons/import" text="hide"/>
+<$action-setfield $tiddler="$:/config/PageControlButtons/Visibility/$:/core/ui/Buttons/more-page-actions" text="hide"/>
+<$action-setfield $tiddler="$:/config/ViewToolbarButtons/Visibility/$:/core/ui/Buttons/clone" text="hide"/>
+<$action-setfield $tiddler="$:/config/ViewToolbarButtons/Visibility/$:/core/ui/Buttons/new-here" text="hide"/>
+<$action-setfield $tiddler="$:/config/PageControlButtons/Visibility/$:/core/ui/Buttons/new-tiddler" text="hide"/>
+<$action-setfield $tiddler="$:/config/PageControlButtons/Visibility/$:/core/ui/Buttons/save-wiki" text="hide"/>
+<$action-setfield $tiddler="$:/config/ViewToolbarButtons/Visibility/$:/core/ui/Buttons/more-tiddler-actions" text="hide"/>
+<$action-setfield $tiddler="$:/config/ViewToolbarButtons/Visibility/$:/core/ui/Buttons/edit" text="hide"/>
+<$action-setfield $tiddler="$:/config/ViewToolbarButtons/Visibility/$:/core/ui/Buttons/info" text="hide"/>
+<$action-setfield $tiddler="$:/config/ViewToolbarButtons/Visibility/$:/core/ui/Buttons/new-journal-here" text="hide"/>
+<$action-setfield $tiddler="$:/config/ViewToolbarButtons/Visibility/$:/core/ui/Buttons/export-tiddler" text="hide"/>
+<$action-setfield $tiddler="$:/config/ViewToolbarButtons/Visibility/$:/core/ui/Buttons/delete" text="hide"/>
+<$action-setfield $tiddler="$:/config/ViewToolbarButtons/Visibility/$:/core/ui/Buttons/permalink" text="hide"/>
+<$action-setfield $tiddler="$:/config/ViewToolbarButtons/Visibility/$:/core/ui/Buttons/permaview" text="hide"/>
+<$action-setfield $tiddler="$:/config/ViewToolbarButtons/Visibility/$:/core/ui/Buttons/open-window" text="hide"/>
+<$action-setfield $tiddler="$:/config/ViewToolbarButtons/Visibility/$:/core/ui/Buttons/close-others" text="show"/>
+<$action-setfield $tiddler="$:/config/ViewToolbarButtons/Visibility/$:/plugins/danielo/encryptTiddler/crypt-button" text="hide"/>
+<$action-setfield $tiddler="$:/config/ViewToolbarButtons/Visibility/$:/core/ui/Buttons/close" text="show"/>
+<$action-setfield $tiddler="$:/config/ViewToolbarButtons/Visibility/$:/core/ui/Buttons/fold-others" text="hide"/>
+<$action-setfield $tiddler="$:/config/ViewToolbarButtons/Visibility/$:/core/ui/Buttons/fold" text="hide"/>
+<$action-setfield $tiddler="$:/config/ViewToolbarButtons/Visibility/$:/core/ui/Buttons/fold-bar" text="hide"/>
+<$action-setfield $tiddler="$:/config/PageControlButtons/Visibility/$:/core/ui/Buttons/close-all" text="hide"/>
+<$action-setfield $tiddler="$:/config/PageControlButtons/Visibility/$:/core/ui/Buttons/close-all" text="hide"/>
+<$action-setfield $tiddler="$:/config/PageControlButtons/Visibility/$:/core/ui/Buttons/fold-all" text="hide"/>
+<$action-setfield $tiddler="$:/config/PageControlButtons/Visibility/$:/core/ui/Buttons/unfold-all" text="hide"/>
+<$action-setfield $tiddler="$:/config/PageControlButtons/Visibility/$:/core/ui/Buttons/permaview" text="hide"/>
+<$action-setfield $tiddler="$:/config/PageControlButtons/Visibility/$:/core/ui/Buttons/new-journal" text="hide"/>
+<$action-setfield $tiddler="$:/config/PageControlButtons/Visibility/$:/core/ui/Buttons/new-image" text="hide"/>
+<$action-setfield $tiddler="$:/config/PageControlButtons/Visibility/$:/core/ui/Buttons/export-page" text="hide"/>
+<$action-setfield $tiddler="$:/config/PageControlButtons/Visibility/$:/core/ui/Buttons/advanced-search" text="hide"/>
+<$action-setfield $tiddler="$:/config/PageControlButtons/Visibility/$:/core/ui/Buttons/manager" text="hide"/>
+<$action-setfield $tiddler="$:/config/PageControlButtons/Visibility/$:/core/ui/Buttons/tag-manager" text="hide"/>
+<$action-setfield $tiddler="$:/config/PageControlButtons/Visibility/$:/core/ui/Buttons/language" text="hide"/>
+<$action-setfield $tiddler="$:/config/PageControlButtons/Visibility/$:/core/ui/Buttons/palette" text="hide"/>
+<$action-setfield $tiddler="$:/config/PageControlButtons/Visibility/$:/core/ui/Buttons/theme" text="hide"/>
+<$action-setfield $tiddler="$:/config/PageControlButtons/Visibility/$:/core/ui/Buttons/storyview" text="hide"/>
+<$action-setfield $tiddler="$:/config/PageControlButtons/Visibility/$:/core/ui/Buttons/encryption" text="hide"/>
+<$action-setfield $tiddler="$:/config/PageControlButtons/Visibility/$:/core/ui/Buttons/timestamp" text="hide"/>
+<$action-setfield $tiddler="$:/config/PageControlButtons/Visibility/$:/core/ui/Buttons/full-screen" text="hide"/>
+<$action-setfield $tiddler="$:/config/PageControlButtons/Visibility/$:/core/ui/Buttons/print" text="hide"/>
+<$action-setfield $tiddler="$:/config/PageControlButtons/Visibility/$:/core/ui/Buttons/refresh" text="hide"/>
+<$action-setfield $tiddler="$:/config/PageControlButtons/Visibility/$:/core/ui/Buttons/more-page-actions" text="hide"/>
+<$action-setfield $tiddler="$:/config/PageControlButtons/Visibility/$:/core/ui/Buttons/home" text="hide"/>
+<$action-listops $tiddler="$:/core/ui/SideBar/More" $tags="-$:/tags/SideBar"/>
+<$action-listops $tiddler="$:/core/ui/SideBar/Tools" $tags="-$:/tags/SideBar"/>
+<$action-listops $tiddler="$:/core/ui/SideBar/Open" $tags="-$:/tags/SideBar"/>
+<$action-listops $tiddler="$:/core/ui/SideBar/Recent" $tags="$:/tags/SideBar"/>
+<!-- $action-listops $tiddler="$:/core/ui/ViewTemplate/tags" $tags="-$:/tags/ViewTemplate" /-->
+
+Read Only Mode
+</$button> <$button> <!-- "Admin Mode" settings /-->
+<$action-setfield $tiddler="$:/config/PageControlButtons/Visibility/$:/core/ui/Buttons/control-panel" text="show"/>
+<$action-setfield $tiddler="$:/config/PageControlButtons/Visibility/$:/core/ui/Buttons/import" text="hide"/>
+<$action-setfield $tiddler="$:/config/PageControlButtons/Visibility/$:/core/ui/Buttons/more-page-actions" text="hide"/>
+<$action-setfield $tiddler="$:/config/ViewToolbarButtons/Visibility/$:/core/ui/Buttons/clone" text="hide"/>
+<$action-setfield $tiddler="$:/config/ViewToolbarButtons/Visibility/$:/core/ui/Buttons/new-here" text="hide"/>
+<$action-setfield $tiddler="$:/config/PageControlButtons/Visibility/$:/core/ui/Buttons/new-tiddler" text="show"/>
+<$action-setfield $tiddler="$:/config/PageControlButtons/Visibility/$:/core/ui/Buttons/save-wiki" text="show"/>
+<$action-setfield $tiddler="$:/config/ViewToolbarButtons/Visibility/$:/core/ui/Buttons/more-tiddler-actions" text="show"/>
+<$action-setfield $tiddler="$:/config/ViewToolbarButtons/Visibility/$:/core/ui/Buttons/edit" text="show"/>
+<$action-setfield $tiddler="$:/config/ViewToolbarButtons/Visibility/$:/core/ui/Buttons/info" text="hide"/>
+<$action-setfield $tiddler="$:/config/ViewToolbarButtons/Visibility/$:/core/ui/Buttons/new-journal-here" text="hide"/>
+<$action-setfield $tiddler="$:/config/ViewToolbarButtons/Visibility/$:/core/ui/Buttons/export-tiddler" text="hide"/>
+<$action-setfield $tiddler="$:/config/ViewToolbarButtons/Visibility/$:/core/ui/Buttons/delete" text="hide"/>
+<$action-setfield $tiddler="$:/config/ViewToolbarButtons/Visibility/$:/core/ui/Buttons/permalink" text="hide"/>
+<$action-setfield $tiddler="$:/config/ViewToolbarButtons/Visibility/$:/core/ui/Buttons/permaview" text="hide"/>
+<$action-setfield $tiddler="$:/config/ViewToolbarButtons/Visibility/$:/core/ui/Buttons/open-window" text="hide"/>
+<$action-setfield $tiddler="$:/config/ViewToolbarButtons/Visibility/$:/core/ui/Buttons/close-others" text="show"/>
+<$action-setfield $tiddler="$:/config/ViewToolbarButtons/Visibility/$:/plugins/danielo/encryptTiddler/crypt-button" text="show"/>
+<$action-setfield $tiddler="$:/config/ViewToolbarButtons/Visibility/$:/core/ui/Buttons/close" text="show"/>
+<$action-setfield $tiddler="$:/config/ViewToolbarButtons/Visibility/$:/core/ui/Buttons/fold-others" text="hide"/>
+<$action-setfield $tiddler="$:/config/ViewToolbarButtons/Visibility/$:/core/ui/Buttons/fold" text="hide"/>
+<$action-setfield $tiddler="$:/config/ViewToolbarButtons/Visibility/$:/core/ui/Buttons/fold-bar" text="hide"/>
+<$action-setfield $tiddler="$:/config/PageControlButtons/Visibility/$:/core/ui/Buttons/close-all" text="hide"/>
+<$action-setfield $tiddler="$:/config/PageControlButtons/Visibility/$:/core/ui/Buttons/close-all" text="hide"/>
+<$action-setfield $tiddler="$:/config/PageControlButtons/Visibility/$:/core/ui/Buttons/fold-all" text="hide"/>
+<$action-setfield $tiddler="$:/config/PageControlButtons/Visibility/$:/core/ui/Buttons/unfold-all" text="hide"/>
+<$action-setfield $tiddler="$:/config/PageControlButtons/Visibility/$:/core/ui/Buttons/permaview" text="hide"/>
+<$action-setfield $tiddler="$:/config/PageControlButtons/Visibility/$:/core/ui/Buttons/new-journal" text="hide"/>
+<$action-setfield $tiddler="$:/config/PageControlButtons/Visibility/$:/core/ui/Buttons/new-image" text="hide"/>
+<$action-setfield $tiddler="$:/config/PageControlButtons/Visibility/$:/core/ui/Buttons/export-page" text="hide"/>
+<$action-setfield $tiddler="$:/config/PageControlButtons/Visibility/$:/core/ui/Buttons/advanced-search" text="hide"/>
+<$action-setfield $tiddler="$:/config/PageControlButtons/Visibility/$:/core/ui/Buttons/manager" text="hide"/>
+<$action-setfield $tiddler="$:/config/PageControlButtons/Visibility/$:/core/ui/Buttons/tag-manager" text="hide"/>
+<$action-setfield $tiddler="$:/config/PageControlButtons/Visibility/$:/core/ui/Buttons/language" text="hide"/>
+<$action-setfield $tiddler="$:/config/PageControlButtons/Visibility/$:/core/ui/Buttons/palette" text="hide"/>
+<$action-setfield $tiddler="$:/config/PageControlButtons/Visibility/$:/core/ui/Buttons/theme" text="hide"/>
+<$action-setfield $tiddler="$:/config/PageControlButtons/Visibility/$:/core/ui/Buttons/storyview" text="hide"/>
+<$action-setfield $tiddler="$:/config/PageControlButtons/Visibility/$:/core/ui/Buttons/encryption" text="hide"/>
+<$action-setfield $tiddler="$:/config/PageControlButtons/Visibility/$:/core/ui/Buttons/timestamp" text="hide"/>
+<$action-setfield $tiddler="$:/config/PageControlButtons/Visibility/$:/core/ui/Buttons/full-screen" text="hide"/>
+<$action-setfield $tiddler="$:/config/PageControlButtons/Visibility/$:/core/ui/Buttons/print" text="hide"/>
+<$action-setfield $tiddler="$:/config/PageControlButtons/Visibility/$:/core/ui/Buttons/refresh" text="hide"/>
+<$action-setfield $tiddler="$:/config/PageControlButtons/Visibility/$:/core/ui/Buttons/more-page-actions" text="hide"/>
+<$action-setfield $tiddler="$:/config/PageControlButtons/Visibility/$:/core/ui/Buttons/home" text="hide"/>
+<$action-listops $tiddler="$:/core/ui/SideBar/More" $tags="$:/tags/SideBar"/>
+<$action-listops $tiddler="$:/core/ui/SideBar/Tools" $tags="$:/tags/SideBar"/>
+<$action-listops $tiddler="$:/core/ui/SideBar/Open" $tags="$:/tags/SideBar"/>
+<$action-listops $tiddler="$:/core/ui/SideBar/Recent" $tags="$:/tags/SideBar"/>
+<!-- $action-listops $tiddler="$:/core/ui/ViewTemplate/tags" $tags="$:/tags/ViewTemplate"/ -->
+Admin Mode
+</$button> 
+
+Save this TiddlyWiki: {{$:/core/ui/Buttons/save-wiki}}
+
+Create bookmarkable permalink for this tiddler: <$button message='tm-permalink' class=<<tv-config-toolbar-class>>>{{$:/core/images/permalink-button}}</$button>

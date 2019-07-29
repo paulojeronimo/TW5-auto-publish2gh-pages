@@ -1,10 +1,7 @@
 color: #0432ff
 created: 20190603122615165
-modified: 20190615183932188
-tags: TableOfContents
+modified: 20190712183819142
 title: Past goals
 type: text/vnd.tiddlywiki
 
-* 2019:
-** [[Week 23 (Jun 03 - Jun 09)|GoalsOf2019Week23]]
-** [[Week 22 (May 27 - Jun 02)|GoalsOf2019Week22]]
+<<list-links "[tag[$(currentTiddler)$]!sort[title]]">>

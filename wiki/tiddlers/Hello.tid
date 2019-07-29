@@ -1,6 +1,6 @@
 created: 20190530152229773
 list: 
-modified: 20190617111150751
+modified: 20190729122806235
 tags: TableOfContents
 title: Hello
 type: text/vnd.tiddlywiki
@@ -10,18 +10,18 @@ You arrived in my (Paulo Jerônimo's) wiki: a [[TiddlyWiki]].
 Here I write things related to [[what I'm currently doing|Current goals]] and my [[projects|Projects]].
 
 I use this wiki to share notes and ideas about many things that aren't only related to my job.
-For example, I love to practice [[Triathlon]] and [[Calisthenics]].
+For example, I love to practice [[my favorite sports|Sports]]: [[Triathlon]] and [[Calisthenics]].
 So here is the perfect place to share my notes about my practices on [[that|Sports]].
 
-I like so much my sports that I decided to combine this passion with another: software development.
+I like so much my sports that I decided to combine this passion with another: [[Software Development]].
 So, I started my new company ([[finisher.tech|FinisherTech]]) and currently (since [[week 22 of 2019|GoalsOf2019Week22]]), [[I'm focused entirely|GoalsOf2019Week22To33]] on produce [[products to it|FinisherTechProducts]].
 
 This wiki is also where I insert some notes about [[books|Books]] that I read.
 
 Doing my job, I need to remember things related to what I'm learning or creating.
-So, I like to write [[articles|Articles]] and [[tutorials|Tutorials that I wrote]].
-Writing texts using markup languages and text editors like [[Vim]] really make me productive.
-So I started to produce documents in [[AsciiDoc]] format, and I do such kind of writing [[since 2014|https://github.com/paulojeronimo/livro-jboss]].
+So, I like to write [[articles|Articles]] and [[tutorials|Tutorials]].
+Writing texts using markup languages and text editors like [[Vim]] make me productive.
+So I started to produce documents in [[AsciiDoc]] format, and I do such kind of writing since 2014 when I started to write [[a book|https://github.com/paulojeronimo/livro-jboss]] in [[Brazilian Portuguese|https://en.wikipedia.org/wiki/Brazilian_Portuguese]] (my native language) about the [[JBoss Application Server|https://jbossas.jboss.org/]].
 But, before that, I also was a [[Txt2tags]] and TiddlyWiki user.
 So, I also like to write things in [[WikiText|https://tiddlywiki.com/#WikiText]] format.
 

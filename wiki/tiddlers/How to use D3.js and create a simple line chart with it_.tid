@@ -1,23 +1,17 @@
 created: 20190617142857090
-modified: 20190711221058570
-tags: JavaScript GoalsOf2019Week25 Article D3.js
+modified: 20190712174938885
+tags: todo JavaScript GoalsOf2019Week25 Article D3.js
 title: How to use D3.js and create a simple line chart with it?
 type: text/vnd.tiddlywiki
 
+* My solution: [[A running plan line chart|https://vizhub.com/undefined/8b8b0f3cf4134492919b93d813648350]]
 * References:
-** Background:
-*** https://medium.com/@alberto.park/a-simple-guide-how-to-select-a-chart-library-to-use-6f17878248f0
 ** Articles:
-*** https://observablehq.com/@d3/line-chart
-*** https://travishorn.com/d3-line-chart-with-forecast-90507cb27ef2
+*** [[D3 Line Chart with Forecast|https://travishorn.com/d3-line-chart-with-forecast-90507cb27ef2]]
 ** Integrated use with:
-*** Tiddlywiki:
-**** http://rokotyan.com/dataviz/tiddlywiki
-**** https://ooktech.com/jed/ExampleWikis/d3plugin/
-** YouTube:
-*** [[Data Visualization Course 2018|https://www.youtube.com/playlist?list=PL9yYRbwpkykvOXrZumtZWbuaXWHvjD8gi]]
-* My solution: https://vizhub.com/undefined/8b8b0f3cf4134492919b93d813648350
-* Alternatives:
-** [[EChars|ECharts Line Demo]]
-** https://blog.bitsrc.io/11-javascript-charts-and-data-visualization-libraries-for-2018-f01a283a5727
-** https://medium.com/@PepsRyuu/why-i-no-longer-use-d3-js-b8288f306c9a
+*** TiddlyWiki:
+**** [[D3.js plugin for TiddlyWiki|http://rokotyan.com/dataviz/tiddlywiki]]
+**** [[Work extending the d3.js plugin|https://ooktech.com/jed/ExampleWikis/d3plugin/]]
+** Alternatives:
+*** [[Why I no longer use D3.js|https://medium.com/@PepsRyuu/why-i-no-longer-use-d3-js-b8288f306c9a]]
+** [[More|Data Visualization]]

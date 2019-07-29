@@ -1,6 +1,6 @@
 created: 20190602135025104
-modified: 20190602135026134
+modified: 20190729125903555
 title: $:/config/PageControlButtons/Visibility/$:/core/ui/Buttons/full-screen
 type: text/vnd.tiddlywiki
 
-show
+hide

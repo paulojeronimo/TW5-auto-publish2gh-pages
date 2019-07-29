@@ -1,8 +1,8 @@
 created: 20190711222040011
-modified: 20190711235612677
+modified: 20190712175829189
 title: FinisherTechTechnologies
 type: text/vnd.tiddlywiki
 
-* Mobile development: ReactNative, [[Kotlin]] and [[Google Flutter]], [[Native Script]].
-* Web development using Data Visualization Technologies like [[D3.js]].
+* Mobile development: ReactNative, [[Kotlin]], [[Google Flutter]], [[Native Script]].
+* Web development: [[Data Visualization]] technologies like [[D3.js]].
 * [[Blockchain]] development: [[Ethereum]].
