@@ -1,0 +1,7 @@
+created: 20190729222955437
+modified: 20190729234219001
+tags: D3.js React Recharts StackedBarChart
+title: Stacked Bar Chart example with Recharts
+type: text/vnd.tiddlywiki
+
+<iframe width="100%" height="400" src="//jsfiddle.net/paulojeronimo/50c43wks/embedded/result/" allowfullscreen="allowfullscreen" allowpaymentrequest frameborder="0"></iframe>
