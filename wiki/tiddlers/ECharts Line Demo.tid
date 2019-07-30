@@ -1,6 +1,6 @@
 created: 20190711204126575
-modified: 20190712174850733
-tags: todo Article ECharts
+modified: 20190730202539021
+tags: todo Article ECharts D3.js Vue.js
 title: ECharts Line Demo
 type: text/vnd.tiddlywiki
 
@@ -9,7 +9,7 @@ type: text/vnd.tiddlywiki
 ** https://www.npmtrends.com/d3-vs-echarts
 ** https://js.libhunt.com/compare-echarts-vs-d3
 * Integrated use with:
-** Tiddlywiki:
+** TiddlyWiki:
 *** https://oxydum.github.io/tiddlyecharts/
-** Vue.js:
+** [[Vue.js]]:
 *** https://ecomfe.github.io/vue-echarts/demo/

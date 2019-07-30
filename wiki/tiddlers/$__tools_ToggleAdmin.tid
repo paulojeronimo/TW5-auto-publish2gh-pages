@@ -1,5 +1,5 @@
 created: 20170612201324999
-modified: 20190729120035408
+modified: 20190730155245500
 tags: 
 title: $:/tools/ToggleAdmin
 type: text/vnd.tiddlywiki
@@ -18,7 +18,7 @@ type: text/vnd.tiddlywiki
 <$action-setfield $tiddler="$:/config/ViewToolbarButtons/Visibility/$:/core/ui/Buttons/new-journal-here" text="hide"/>
 <$action-setfield $tiddler="$:/config/ViewToolbarButtons/Visibility/$:/core/ui/Buttons/export-tiddler" text="hide"/>
 <$action-setfield $tiddler="$:/config/ViewToolbarButtons/Visibility/$:/core/ui/Buttons/delete" text="hide"/>
-<$action-setfield $tiddler="$:/config/ViewToolbarButtons/Visibility/$:/core/ui/Buttons/permalink" text="hide"/>
+<$action-setfield $tiddler="$:/config/ViewToolbarButtons/Visibility/$:/core/ui/Buttons/permalink" text="show"/>
 <$action-setfield $tiddler="$:/config/ViewToolbarButtons/Visibility/$:/core/ui/Buttons/permaview" text="hide"/>
 <$action-setfield $tiddler="$:/config/ViewToolbarButtons/Visibility/$:/core/ui/Buttons/open-window" text="hide"/>
 <$action-setfield $tiddler="$:/config/ViewToolbarButtons/Visibility/$:/core/ui/Buttons/close-others" text="show"/>

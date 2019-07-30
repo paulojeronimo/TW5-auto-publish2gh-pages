@@ -1,15 +1,15 @@
 created: 20190530152229773
 list: 
-modified: 20190729122806235
+modified: 20190730174553996
 tags: TableOfContents
 title: Hello
 type: text/vnd.tiddlywiki
 
-You arrived in my (Paulo Jerônimo's) wiki: a [[TiddlyWiki]].
+You arrived in my TiddlyWiki!
 
 Here I write things related to [[what I'm currently doing|Current goals]] and my [[projects|Projects]].
 
-I use this wiki to share notes and ideas about many things that aren't only related to my job.
+I use this wiki to write in a [[non-linear way|https://en.wikipedia.org/wiki/Nonlinear_narrative]] and share notes and ideas about many things that aren't only related to my job.
 For example, I love to practice [[my favorite sports|Sports]]: [[Triathlon]] and [[Calisthenics]].
 So here is the perfect place to share my notes about my practices on [[that|Sports]].
 
@@ -25,6 +25,4 @@ So I started to produce documents in [[AsciiDoc]] format, and I do such kind of 
 But, before that, I also was a [[Txt2tags]] and TiddlyWiki user.
 So, I also like to write things in [[WikiText|https://tiddlywiki.com/#WikiText]] format.
 
-If you want to know more about my past in working, you can see my [[Curriculum Vitae]] (CV).
-
-{{Who am I?}}
+If you want to know more about //my past in working//, you can see my [[Curriculum Vitae]] (CV).

@@ -1,16 +1,11 @@
 created: 20190602184350024
-modified: 20190729104010681
+modified: 20190730160053614
 tags: 
 title: Who am I?
 type: text/vnd.tiddlywiki
 
-These are some slides ( that needs to be updated <<tag "ImproveMyCV">> ) which presents you a more concise version of my [[CV|Curriculum Vitae]]:
+The following slides ( that needs to be updated <<tag "ImproveMyCV">> ) presents you a little about me.
 
-<iframe 
-id="whoami" 
-src="https://paulojeronimo.github.io/whoami" 
-scrolling="no" 
-frameborder="0">
-</iframe>
+The information available in there is a more concise version of my [[CV|Curriculum Vitae]] including, also, some personal things that I like to do. Access https://paulojeronimo.github.io/whoami to see the Full Screen version.
 
-Full Screen version: https://paulojeronimo.github.io/whoami
+<iframe id="whoami" src="https://paulojeronimo.github.io/whoami" scrolling="no" frameborder="0"/>
