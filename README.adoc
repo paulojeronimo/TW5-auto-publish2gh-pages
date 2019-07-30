@@ -7,21 +7,26 @@ Paulo Jerônimo, {localdatetime}
 
 This repo contains the source code (master branch) of my wiki ( https://paulojeronimo.github.io/wiki ) published on (https://github.com/paulojeronimo/wiki/tree/gh-pages[gh-pages^] branch).
 
-It uses https://tiddlywiki.com/[TiddlyWiki^] and is built with https://travis-ci.org/[Travis CI^] on each git commit.
+It uses https://tiddlywiki.com/[TiddlyWiki^] and is built with https://travis-ci.org/[Travis CI^] after each `git push` to GitHub.
+Basically, the link:scripts/publish[publish script] (configured and called by Travis CI in link:.travis.yml[]) is responsible to publish the wiki built (with the `tiddlywiki` command).
 
-The link:scripts/publish[publish script], configured in link:.travis.yml[], is called by Travis CI after wiki build (with `tiddlywiki` command) on each `commit` (and `push`) to this repo.
-
-NOTE: if you want to configure something you'll need to copy the file link:scripts/config.sample[] to `scripts/config` and edit it as needed.
+[NOTE]
+====
+* If you want to configure something you'll need to copy the file link:scripts/config.sample[] to `scripts/config` and edit it as needed.
+* The script link:scripts/common[] (called by others) is responsible for loading configurations from `config` or `config.sample` (if the first doesn't exist).
+====
 
 == Running this wiki locally
 
 It may be a good idea to edit and see this wiki locally before publish it to GitHub Pages.
 
-To do this, you need to install https://tiddlywiki.com/static/TiddlyWiki%2520on%2520Node.js.html[Tiddlywiki Node.js^] package (`npm install tiddlywiki`) and run the link:scripts/local[local script] as in the following command:
+To do this, you need to install https://tiddlywiki.com/static/TiddlyWiki%2520on%2520Node.js.html[Tiddlywiki Node.js^] package (`npm install -g tiddlywiki`) and run the link:scripts/local[local script] as in the following command:
 
 ----
 $ ./scripts/local start
 ----
+
+NOTE: The link:scripts/local[local script] can also be invoked with the parameter `install` to install `tiddlywiki` globally.
 
 Open the browser on http://localhost:8080 and edit the wiki.
 
@@ -31,13 +36,7 @@ To stop the TiddlyWiki execution just press kbd:[Ctrl+C].
 
 You can also run this Wiki through Docker by executing the link:scripts/docker[docker script].
 
-Building the TiddlyWiki container:
-
-----
-$ ./scripts/docker build
-----
-
-Starting TiddlyWiki:
+The following command will start a new container from the https://hub.docker.com/r/paulojeronimo/tiddlywiki[paulojeronimo/tiddlywiki] Docker image available on https://hub.docker.com/[Docker Hub].
 
 ----
 $ ./scripts/docker start
@@ -45,11 +44,27 @@ $ ./scripts/docker start
 
 Open the browser on http://localhost:8080 and edit the wiki.
 
-Stopping TiddlyWiki:
+To stop the docker image, type:
 
 ----
 $ ./scripts/docker stop
 ----
+
+=== Building and Publishing the Docker image (optional and needs an account on Docker Hub)
+
+To build the image:
+
+----
+$ ./scripts/docker build
+----
+
+To publish the image to Docker Hub:
+
+----
+$ ./scripts/docker push
+----
+
+NOTE: This command requires that you have been logged in Docker Hub through the command https://docs.docker.com/engine/reference/commandline/login/[docker login].
 
 == Generating static files
 

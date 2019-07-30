@@ -7,15 +7,17 @@ source "$BASE_DIR"/common
 
 # If TiddlyWiki isn't installed, exit!
 which tiddlywiki &> /dev/null || {
-  echo "TiddlyWiki is not installed!"
-  echo "Try run this: $0 install"
-  exit 1
+  [ "$1" != "install" ] && {
+    echo "TiddlyWiki is not installed!"
+    echo "Try run this: $0 install"
+    exit 1
+  }
 }
 
 cd "$WIKI_BASE_DIR"
 
 install() {
-  npm install tiddlywiki
+  npm install -g tiddlywiki
 }
 
 start() {
@@ -25,3 +27,5 @@ start() {
 [ "$1" ] && {
   type "$1" > /dev/null && $1
 } || echo "$0 <install|start>"
+
+# vim: set ts=2 sw=2 et:
