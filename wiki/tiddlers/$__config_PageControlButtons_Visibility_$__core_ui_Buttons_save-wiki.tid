@@ -1,7 +1,6 @@
 created: 20190613223617010
-modified: 20190731123558927
-revision: 0
+modified: 20190731175858229
 title: $:/config/PageControlButtons/Visibility/$:/core/ui/Buttons/save-wiki
 type: text/vnd.tiddlywiki
 
-show
+hide

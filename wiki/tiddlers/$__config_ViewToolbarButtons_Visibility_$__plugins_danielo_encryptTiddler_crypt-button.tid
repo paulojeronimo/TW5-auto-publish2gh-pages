@@ -1,7 +1,6 @@
 created: 20190712203657522
-modified: 20190731123558928
-revision: 0
+modified: 20190731175858321
 title: $:/config/ViewToolbarButtons/Visibility/$:/plugins/danielo/encryptTiddler/crypt-button
 type: text/vnd.tiddlywiki
 
-show
+hide
