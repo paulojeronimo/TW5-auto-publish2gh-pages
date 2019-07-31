@@ -5,16 +5,16 @@ $DEBUG && set -x || set +x
 BASE_DIR=`cd "$(dirname "$0")"; pwd`
 source "$BASE_DIR"/common
 
-build() {
+_build() {
   cd "$BASE_DIR"/..
   docker build -t $DOCKER_IMAGE_NAME:$DOCKER_IMAGE_VERSION .
 }
 
-push() {
+_push() {
   docker push $DOCKER_IMAGE_NAME:$DOCKER_IMAGE_VERSION
 }
 
-start() {
+_start() {
   docker run --detach --rm \
     --name tiddlywiki \
     --publish $WIKI_BIND:$WIKI_PORT:8080 \
@@ -24,16 +24,14 @@ start() {
     --listen host=0.0.0.0
 }
 
-stop() {
+_stop() {
   docker stop tiddlywiki
 }
 
-rmi() {
+_rmi() {
   docker rmi $DOCKER_IMAGE_NAME
 }
 
-[ "$1" ] && {
-  type "$1" > /dev/null && $1
-} || echo "$0 <build|start|stop|rmi>"
+main "$@"
 
 # vim: set ts=2 sw=2 et:

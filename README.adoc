@@ -23,14 +23,23 @@ It may be a good idea to edit and see this wiki locally before publish it to Git
 To do this, you need to install https://tiddlywiki.com/static/TiddlyWiki%2520on%2520Node.js.html[Tiddlywiki Node.js^] package (`npm install -g tiddlywiki`) and run the link:scripts/local[local script] as in the following command:
 
 ----
-$ ./scripts/local start
+$ ./scripts/local listen
 ----
-
-NOTE: The link:scripts/local[local script] can also be invoked with the parameter `install` to install `tiddlywiki` globally.
 
 Open the browser on http://localhost:8080 and edit the wiki.
 
 To stop the TiddlyWiki execution just press kbd:[Ctrl+C].
+
+=== Loading the wiki from a file
+
+Sometimes you want to import the wiki from an external file and load it into the link:wiki[] directory.
+This is especially useful when someone edits the wiki using a browser and send the modifications to you in a file called `tiddywiki.html` (for example).
+
+So, in this case, you can import the modifications by typing the following command:
+
+----
+$ ./scripts/local load ~/Downloads/tiddlywiki.html
+----
 
 == Running this wiki through Docker
 

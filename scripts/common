@@ -10,3 +10,34 @@ done
 $found || echo "$cfg not found!"
 
 echo "Configurations loaded from \"$cfg\" ..."
+
+check-npm-cmd() {
+  type $1 &> /dev/null || {
+    echo "$1 is not installed!"
+    echo "Try run this: \"npm install -g $1\""
+    exit 1
+  }
+}
+
+check-serve() {
+  check-npm-cmd serve
+}
+
+check-tiddlywiki() {
+  check-npm-cmd tiddlywiki
+}
+
+list-tasks() {
+  local tasks=$(sed -n 's/_\(.*\)() {/\1/p' $0 | tr '\n' '|')
+  echo -n ${tasks%?}
+}
+
+main() {
+  cd "$WIKI_BASE_DIR"
+  [ "$1" ] && {
+    task=_$1
+    type "$task" > /dev/null && { shift; $task "$@"; }
+  } || echo "$0 <`list-tasks`>"
+}
+
+# vim: set ts=2 sw=2 et:
