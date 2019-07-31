@@ -6,6 +6,7 @@ description: Português (Brasil)
 modified: 20190617114016251
 name: pt-BR
 plugin-type: language
+revision: 0
 title: $:/languages/pt-BR
 type: application/json
 version: 5.1.19

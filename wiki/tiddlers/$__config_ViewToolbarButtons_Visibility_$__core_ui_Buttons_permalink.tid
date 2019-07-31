@@ -1,6 +1,7 @@
 created: 20190729104455224
-modified: 20190730203251290
+modified: 20190731123558927
+revision: 0
 title: $:/config/ViewToolbarButtons/Visibility/$:/core/ui/Buttons/permalink
 type: text/vnd.tiddlywiki
 
-show
+hide

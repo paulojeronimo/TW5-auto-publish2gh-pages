@@ -1,6 +1,7 @@
 created: 20190712142142971
 encrypted: {"iv":"IOfxXaQ4IOUmCXPg7QXV+A==","v":1,"iter":10000,"ks":128,"ts":64,"mode":"ccm","adata":"","cipher":"aes","salt":"8bh+knukFu8=","ct":"kxxuR452G8xZyg1MattnFL5/I6yYfiApjU+HppWnkL+jwDryDt3zza8rnX5geq+4ZfrkKBCLAmbRaQKkDXY2aZ0vk+foYX0TaOhbOLVtPsD1KJaUbqjzDaENaUo6dL8pHWr2qam1vYIpky7QhJmL9aAT2fb37Dm5kHMearasiImqDDpKR6wBiWeLxO6fMmXZEbSsVnoQU+F0QqAJT1b68V0TfbEc5SjypeESDbUWbDSWzT81BD6XaYXIrWu5Plk+7CPJmbg0OGR04U+54krUvd+hFzj//5c10zhwTBrtdX+9yo4f4eqIxe89znrMGXH/+t/as6ACzl+hHtheCO3fpFiZSEeTbaE7XVPobZxifYN1sJeLkwfziQHXXbKwnIwrCOeCBb3tg2LfX/Z7JppVa29kEleH9N0JfMbaJ7cV6FD4kDW3nYZXpHWgeZFO0Z5/r2bBTdcBSe71To4q7VJHNgIpqx1yE5VFcW9Fb1Puy3xngshWbG2+yO24YLcBqqJ/BzK5Vz8qF1npnQ79sWijIbPKxCo248aidby2eyCowCFyG3CKRASKIZT6R3AdT94OIYbf4jBcT6M1n2ZElmyCDZngESmJUb3YQT0mJxIyMHHDxnWHK21CZ8vnuJaf0rTq8Nf8QrHqT50/FkHYk7wQM4SEikatJa9aBuDLMiMpiPYLGxHYKmsL/krV+36TKuaVKdu15zSEDnYgxW7fXnC7/lO9ZS/1Mn0JK6Rt8t1MeOSUU5g0/1ehA2zSSq7zkghELhVgjPU0"}
 modified: 20190712180718533
+revision: 0
 tags: Jest Journal Victory Mocha
 title: 12th July 2019
 type: text/vnd.tiddlywiki

@@ -1,6 +1,7 @@
 created: 20190712203904681
-modified: 20190730203251307
+modified: 20190731123558927
+revision: 0
 title: $:/config/ViewToolbarButtons/Visibility/$:/core/ui/Buttons/more-tiddler-actions
 type: text/vnd.tiddlywiki
 
-hide
+show

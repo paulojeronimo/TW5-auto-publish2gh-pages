@@ -1,6 +1,7 @@
 created: 20190614213215256
 encrypted: {"iv":"AcpCboDd440X6jaAa5U0TQ==","v":1,"iter":10000,"ks":128,"ts":64,"mode":"ccm","adata":"","cipher":"aes","salt":"RArP+7Hm2Q4=","ct":"gIaDvO6hetfFqVME21sUzdfYpeqJpm/oMXjfI74Uo4sFkpPAZ8UkPuHzT/0l49tElcY1LL/cwuGTRU0v7boVs/s0f9dnOnsBwZ1THfyrO3PBt8yg/4BHO2A8EzEUd+RB0ehzSITa47pIUzSVN3Azdh961+/ATIksh6ghiuIgktvigzA8EwpXF9m4Ag/8x549ILDED9sCC8wHwpj8L93rC9suk3PehIRhEr2+IJSdIoOiMFC//MDYC/4PqammXG8lRClo8iMdCoX2MgaYWublzmOAZpxmlxYOuEH/7f+SR4zDCSQmspULA8nuy0knUpdqh2O41DFgw1IckWm1yuY="}
 modified: 20190617103048965
+revision: 0
 tags: GoalsOf2019Week24 done
 title: Finish private goals for 2019 week 24
 type: text/vnd.tiddlywiki

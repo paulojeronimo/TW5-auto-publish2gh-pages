@@ -1,5 +1,6 @@
 created: 20190617101726593
-modified: 20190711203040537
+modified: 20190731123719423
+revision: 0
 tags: TrainingPlans RioHalfMarathon GoalsOf2019Week25 done
 title: Create and publish a chart for my Sunday running plans until Rio Half Marathon
 type: text/vnd.tiddlywiki
@@ -8,4 +9,4 @@ type: text/vnd.tiddlywiki
 ** NOTE: This is a complex task (at least at this moment) because I need to understand more about the following:
 *** [[How to use D3.js and create a simple line chart with it?]]
 *** [[How to create a TiddlyWiki plugin to display a simple line chart that uses D3.js?]]
-* My solution: https://vizhub.com/undefined/8b8b0f3cf4134492919b93d813648350
+* ''Solution'': [[My training plan line chart for Sunday's runnings until Rio Half Marathon]]

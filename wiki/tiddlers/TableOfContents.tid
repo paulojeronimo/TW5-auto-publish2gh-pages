@@ -2,6 +2,7 @@ caption: {{$:/language/SideBar/Contents/Caption}}
 created: 20190529203639355
 list-before: $:/core/ui/SideBar/Open
 modified: 20190603113022852
+revision: 0
 tags: $:/tags/SideBar
 title: TableOfContents
 type: text/vnd.tiddlywiki
