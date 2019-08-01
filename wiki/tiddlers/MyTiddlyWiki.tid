@@ -1,0 +1,14 @@
+created: 20190731181039951
+modified: 20190801141804277
+my-wiki-github-repo: https://github.com/paulojeronimo/wiki
+title: MyTiddlyWiki
+
+My TiddlyWiki <a href={{!!my-wiki-github-repo}} rel="noopener noreferrer">source code</a> is available on {{GitHub}}.
+
+The [[README.adoc|https://github.com/paulojeronimo/wiki/blob/master/README.adoc]] in this repo explains how do I build it.
+
+By default, this wiki is published in ''Read Only Mode''. But, you can use the [[$:/tools/ToggleAdmin]] tiddler to click on button ''Admin Mode'' in a way you can edit it. If you edit any tiddler or create a new one, the button {{$:/core/ui/Buttons/save-wiki}} will be colored in red. This means that you can save this wiki in a new file on your device.
+
+<!-- Notes:
+https://tiddlywiki.com/static/HTML%2520Links%2520in%2520WikiText.html
+-->

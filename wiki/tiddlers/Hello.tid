@@ -1,12 +1,12 @@
 created: 20190530152229773
 list: 
-modified: 20190730174553996
+modified: 20190731181019859
 revision: 0
 tags: TableOfContents
 title: Hello
 type: text/vnd.tiddlywiki
 
-You arrived in my TiddlyWiki!
+You arrived in [[my TiddlyWiki|MyTiddlyWiki]]!
 
 Here I write things related to [[what I'm currently doing|Current goals]] and my [[projects|Projects]].
 
