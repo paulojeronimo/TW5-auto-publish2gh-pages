@@ -1,0 +1,6 @@
+created: 20190801152455227
+modified: 20190801152721703
+tags: $:/tags/Macro
+title: $:/paulojeronimo/macros/myRepoFile
+
+\define myRepoFile(repo, file) [[$file$|https://github.com/paulojeronimo/$repo$/blob/master/$file$]]

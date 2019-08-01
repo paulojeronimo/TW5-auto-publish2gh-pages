@@ -1,8 +1,0 @@
-created: 20190617141147692
-modified: 20190619184833338
-revision: 0
-tags: $:/tags/Macro
-title: $:/paulojeronimo/macros/myRepoImg
-type: text/vnd.tiddlywiki
-
-\define myRepoImg(img, text) [[$text$|https://raw.githubusercontent.com/paulojeronimo/wiki/master/images/$img$]]

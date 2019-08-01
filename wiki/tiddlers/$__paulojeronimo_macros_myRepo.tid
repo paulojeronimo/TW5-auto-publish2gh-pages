@@ -1,0 +1,8 @@
+created: 20190801144850080
+modified: 20190801150405734
+tags: $:/tags/Macro
+title: $:/paulojeronimo/macros/myRepo
+
+\define myRepo(name, text)
+[[$text$|https://github.com/paulojeronimo/$name$]]
+\end
