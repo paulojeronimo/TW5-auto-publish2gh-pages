@@ -19,7 +19,7 @@ _listen() {
 
 _load() {
   # https://tiddlywiki.com/static/LoadCommand.html
-  tiddlywiki $WIKI --load
+  tiddlywiki $WIKI --load "$1"
 }
 
 main "$@"

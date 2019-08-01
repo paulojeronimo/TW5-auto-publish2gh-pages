@@ -9,7 +9,19 @@ do
 done
 $found || echo "$cfg not found!"
 
-echo "Configurations loaded from \"$cfg\" ..."
+[ "$TMPDIR" ] && {
+  [ "${TMPDIR: -1}" = / ] && \
+    log_dir=${TMPDIR%?}/wiki || \
+    log_dir=$TMPDIR/wiki
+} || log_dir=/tmp/wiki
+mkdir -p $log_dir
+
+log=$log_dir/`date +%s`.log
+{
+  echo "Log file: $log"
+  echo "Date and time: `date`"
+  echo "Configurations loaded from \"$cfg\" ..."
+} | tee -a $log
 
 check-npm-cmd() {
   type $1 &> /dev/null || {
@@ -36,7 +48,13 @@ main() {
   cd "$WIKI_BASE_DIR"
   [ "$1" ] && {
     task=_$1
-    type "$task" > /dev/null && { shift; $task "$@"; }
+    type "$task" &> /dev/null && {
+      shift
+      {
+        echo "Running: $task $@"
+        $task "$@" 2>&1
+      } | tee -a $log
+    }
   } || echo "$0 <`list-tasks`>"
 }
 
