@@ -1,9 +1,9 @@
 color: #0432ff
 created: 20190530124401110
-modified: 20190711201409766
-revision: 0
+modified: 20190801210530077
 tags: TableOfContents
 title: Current goals
 type: text/vnd.tiddlywiki
 
+{{CurrentWeek}}
 <<tabs "GoalsOf2019Week22To33" "GoalsOf2019Week22To33">>

@@ -1,10 +1,9 @@
 created: 20190603141247621
-modified: 20190730195222803
-revision: 0
+modified: 20190802113222371
 tags: GoalsOf2019Week22To33
 title: Release versions of finisher.tech's products
 type: text/vnd.tiddlywiki
 
 * Release at least one (1) version for 3 or 4 [[finisher.tech's products|FinisherTechProducts]].
-** These products should be built using technologies like <<tag React>> and <<tag D3.js>> based frameworks for [[Data Visualization]].
+** These products should be built using technologies like <<tag React>> and <<tag D3.js>> based frameworks for {{data visualization}}.
 ** Have at least two products sold to a minimum of customers that I will define soon (''TODO'').

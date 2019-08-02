@@ -1,0 +1,7 @@
+created: 20190801210429656
+modified: 20190801210741157
+tags: 
+title: CurrentWeek
+type: text/vnd.tiddlywiki
+
+''The current week number is <<currentWeek>>'' (this is calculated by $:/plugins/paulojeronimo/currentWeek.js). You can see the week numbers for this year here: https://www.epochconverter.com/weeks

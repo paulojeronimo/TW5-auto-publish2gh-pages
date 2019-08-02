@@ -1,0 +1,10 @@
+created: 20190802095749290
+modified: 20190802125451375
+tags: JBoss JBossAS
+title: JBoss Application Server
+type: text/vnd.tiddlywiki
+
+I worked, manny years in my life, as a software developer writing code in {{Java}} (since 2000) to product {{Java EE}} applications.
+Working with Java EE we usually produce software that runs in applications servers.
+One of my favorite application servers was {{JBoss AS}} (currently {{Wildfly}} named).
+Look at my {{CV}} to see my complete history using it.

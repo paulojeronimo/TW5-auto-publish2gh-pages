@@ -1,22 +1,20 @@
 created: 20190729111015483
-modified: 20190729114044552
-revision: 0
-tags: TableOfContents
+modified: 20190802125325053
+tags: TableOfContents JavaScript React Gatsby Kotlin Solidity Bash Groovy Python Gradle Jinja Java D3.js ReactNative
 title: Software Development
 type: text/vnd.tiddlywiki
 
-Currently, I'm developing software using many technologies. Some examples include:
+Currently, ''I'm interested in software development'' using the languages and technologies listed below:
 
-* Programming Languages
-** <<tag Bash>>
-** <<tag JavaScript>>
-*** <<tag React>>
-*** <<tag Gatsby>>
-*** <<tag D3.js>>
-** <<tag Kotlin>>
-** <<tag Python>>
-* <<tag Blockchain>>
-** <<tag Ethereum>>
-** <<tag Solidity>>
+* Primary focus:
+** {{JavaScript}}:
+*** {{React}}, {{React Native}} and {{Gatsby}}.
+*** {{D3.js}} and {{data visualization}} frameworks based on it.
+** {{Kotlin}} //({{I'm not excited to develop applications directly in||red}} {{Java}})//.
+** {{Ethereum}} and {{Solidity}}.
+* Other:
+** {{Bash}}
+** {{Groovy}}: {{Gradle}}
+** {{Python}}: {{Jinja}}
 
-''I can help you'' to develop your ideas! Please, ''[[contact me|Contact me]]''!
+''I can help you'' to develop your ideas! Please, {{contact me}}!

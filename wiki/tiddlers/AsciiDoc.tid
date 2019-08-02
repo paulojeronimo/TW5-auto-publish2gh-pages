@@ -1,8 +1,7 @@
 created: 20190603111352709
-modified: 20190615185313938
-revision: 0
+modified: 20190802113711369
+tags: AsciiDoc Ruby
 title: AsciiDoc
 type: text/vnd.tiddlywiki
 
-* https://paulojeronimo.github.io/asciidoc-e-asciidoctor/ (//pt-br//)
-* https://asciidoctor.org/docs/asciidoc-syntax-quick-reference/
+[[AsciiDoc|https://asciidoctor.org/docs/asciidoc-syntax-quick-reference/]]
