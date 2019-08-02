@@ -1,0 +1,6 @@
+created: 20190802213120300
+modified: 20190802213210664
+tags: $:/tags/Macro
+title: $:/paulojeronimo/macros/github
+
+\define github(user) https://github.com/$user$

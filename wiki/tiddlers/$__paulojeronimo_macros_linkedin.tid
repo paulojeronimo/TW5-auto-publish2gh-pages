@@ -1,0 +1,6 @@
+created: 20190802212357842
+modified: 20190802212822588
+tags: $:/tags/Macro
+title: $:/paulojeronimo/macros/linkedin
+
+\define linkedin(user) https://www.linkedin.com/in/$user$

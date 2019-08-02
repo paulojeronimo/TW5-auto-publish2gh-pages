@@ -1,6 +1,7 @@
 created: 20190530152229773
 list: 
-modified: 20190802112816996
+modified: 20190802214506233
+revision: 0
 title: Hello
 type: text/vnd.tiddlywiki
 
@@ -11,6 +12,7 @@ In short, now I am primarily focused on:
 
 * [[Software Development]] for writing ''mobile apps'' for ''health prevention area and sports''.
 * Coding programs using languages like {{JavaScript}}, {{Kotlin}} and {{Solidity}}.
+* [[Data Visualization]] tools, libraries, and frameworks to use in the development of my {{projects}}.
 
 I use this wiki to write in a [[non-linear way|https://en.wikipedia.org/wiki/Nonlinear_narrative]] and share notes and ideas about many things that aren't only related to my job.
 For example, I love to practice [[my favorite sports|Sports]]: [[Triathlon]] and [[Calisthenics]].

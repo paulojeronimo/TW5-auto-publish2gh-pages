@@ -1,5 +1,5 @@
 created: 20190615170314217
-modified: 20190620085810135
+modified: 20190802213857921
 revision: 0
 title: TiddlyWiki
 type: text/vnd.tiddlywiki
@@ -7,4 +7,4 @@ type: text/vnd.tiddlywiki
 [[TiddlyWiki|https://tiddlywiki.com]] is a [[wiki|https://en.wikipedia.org/wiki/Wiki]] that runs entirely in your browser.
 You can find a better definition here: https://tiddlywiki.com/#TiddlyWiki.
 
-<<tabs "[tag[TiddlyWiki]!subject[TiddlyWiki]sort[title]]" [[TiddlyWiki articles]]>>
+<<tabs "[tag[TiddlyWikiTab]sort[title]]" [[TiddlyWiki articles]]>>

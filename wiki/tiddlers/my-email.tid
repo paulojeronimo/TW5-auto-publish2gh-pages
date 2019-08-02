@@ -1,6 +1,7 @@
 created: 20190731190221219
-modified: 20190731190412037
+modified: 20190802211712595
+revision: 0
 tags: 
 title: my-email
 
-[[paulojeronimo@gmail.com|mailto:paulojeronimo@gmail.com]]
+<$macrocall $name="gmail" user={{my-public-data##gmail}}>>

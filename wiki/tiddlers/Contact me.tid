@@ -1,11 +1,11 @@
 created: 20190729111717340
-modified: 20190731190821174
+modified: 20190802215159170
 revision: 0
 tags: TableOfContents
 title: Contact me
 type: text/vnd.tiddlywiki
 
-* Phone (WhatsApp, [[Telegram]]): {{my-phone-number}}
+* Phone ({{WhatsApp}}, {{Telegram}}): {{my-phone-number}}
 * Email: {{my-email}}
 * Twitter: {{my-twitter}}
 * Linkedin: {{my-linkedin}}

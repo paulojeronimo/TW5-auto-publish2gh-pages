@@ -1,0 +1,6 @@
+created: 20190802210733454
+modified: 20190802211401177
+tags: $:/tags/Macro
+title: $:/paulojeronimo/macros/gmail
+
+\define gmail(user) [[$user$@gmail.com|mailto:$user$@gmail.com]]

@@ -1,6 +1,7 @@
 created: 20190731190718471
-modified: 20190731190926632
+modified: 20190802213103863
+revision: 0
 tags: 
 title: my-github
 
-https://github.com/paulojeronimo
+<$macrocall $name="github" user={{my-public-data##github}}>>

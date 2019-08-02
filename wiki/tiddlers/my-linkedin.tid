@@ -1,6 +1,7 @@
 created: 20190731190556498
-modified: 20190731190805974
+modified: 20190802212934928
+revision: 0
 tags: 
 title: my-linkedin
 
-https://www.linkedin.com/in/paulojeronimo/
+<$macrocall $name="linkedin" user={{my-public-data##linkedin}}>>

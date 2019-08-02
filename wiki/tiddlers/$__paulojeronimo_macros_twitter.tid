@@ -1,0 +1,6 @@
+created: 20190802211827280
+modified: 20190802212103415
+tags: $:/tags/Macro
+title: $:/paulojeronimo/macros/twitter
+
+\define twitter(user) [[@$user$|https://twitter.com/$user$]]

@@ -1,6 +1,7 @@
 created: 20190731190443067
-modified: 20190731190455116
+modified: 20190802212337161
+revision: 0
 tags: 
 title: my-twitter
 
-[[@paulojeronimo|https://twitter.com/paulojeronimo]]
+<$macrocall $name="twitter" user={{my-public-data##twitter}}>>
