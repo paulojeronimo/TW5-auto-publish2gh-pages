@@ -1,0 +1,16 @@
+caption: Articles
+created: 20190808070741491
+modified: 20190808075528887
+tags: [[Data Visualization Tab]] [[Data Visualization]]
+title: Data Visualization Articles
+type: text/vnd.tiddlywiki
+
+* Articles:
+** My: <<list-links "[tag[Data Visualization Article]]">>
+** From others:
+*** [[A simple guide: How to select a chart library to use?|https://medium.com/@alberto.park/a-simple-guide-how-to-select-a-chart-library-to-use-6f17878248f0]]
+*** [[11 Javascript Data Visualization Libraries for 2019|https://blog.bitsrc.io/11-javascript-charts-and-data-visualization-libraries-for-2018-f01a283a5727]]
+* Videos:
+** [[Data Visualization Course 2018|https://www.youtube.com/playlist?list=PL9yYRbwpkykvOXrZumtZWbuaXWHvjD8gi]]
+* Interesting:
+** http://www.healthdata.org/results/data-visualizations

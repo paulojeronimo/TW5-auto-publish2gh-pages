@@ -1,12 +1,11 @@
 created: 20190530154416853
 list: 
-modified: 20190729122741219
-revision: 0
+modified: 20190808104941795
 tags: TableOfContents
 title: Tutorials
 type: text/vnd.tiddlywiki
 
-* See repositories with 'tutorial' in the name on [[my GitHub account|MyGitHubAccount]] (and also on organizations that I participate). Some of my last tutorials:
+* See repositories with 'tutorial' in the name on [[my GitHub account|my-github]] (and also on organizations that I participate). Some of my last tutorials:
 ** [[keycloak-spring-boot-tutorial|https://github.com/paulojeronimo/keycloak-spring-boot-tutorial]]
 ** [[bosh-lite-tutorial|https://github.com/paulojeronimo/bosh-lite-tutorial]]
 ** [[uaa-tutorial|https://github.com/paulojeronimo/uaa-tutorial]]

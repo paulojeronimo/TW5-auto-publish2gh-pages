@@ -1,0 +1,16 @@
+created: 20190808090637232
+modified: 20190808103118151
+tags: [[My Code]]
+title: my-tiddlywiki
+type: text/vnd.tiddlywiki
+
+My [[TiddlyWiki]] <<myRepo wiki "source code">> is available on {{GitHub}} and uses a lot of {{JavaScript}} code.
+
+The <<myGitHubRepoFile wiki README.adoc>> in this repo explains how do I build it locally using {{Node.js}} (or a {{Docker}} container).
+After its publication to GitHub, {{TravisCI}} is responsible to build and publishes it on {{GitHubPages}}.
+
+By default, this wiki is published in ''Read Only Mode''. But, you can use the [[ToogleAdmin|$:/tools/ToggleAdmin]] tiddler to click on button ''Admin Mode'' in a way you can edit it. If you edit any tiddler or create a new one, the button {{$:/core/ui/Buttons/save-wiki}} will be colored in {{red||red}}. This means that you can save this wiki in a new file on your device.
+
+<!-- Notes:
+https://tiddlywiki.com/static/HTML%2520Links%2520in%2520WikiText.html
+-->

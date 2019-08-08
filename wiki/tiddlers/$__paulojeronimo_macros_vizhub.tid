@@ -1,0 +1,7 @@
+created: 20190808092011645
+modified: 20190808095446152
+tags: $:/tags/Macro
+title: $:/paulojeronimo/macros/vizhub
+type: text/vnd.tiddlywiki
+
+\define vizhub(user) https://vizhub.com/$user$

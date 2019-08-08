@@ -1,9 +1,8 @@
 created: 20190602135848378
-modified: 20190614214414166
-revision: 0
+modified: 20190808104922868
 tags: GoalsOf2019Week23
 title: Rewrite my Home page using React and Next.js
 type: text/vnd.tiddlywiki
 
 * ~~Rewrite my main page using [[React]] and [[NextJS]].~~ (Canceled: I will use this techs on another web site)
-** The contents needs to be published on [[my GitHub account|MyGitHubAccount]].
+** The contents needs to be published on [[my GitHub account|my-github]].

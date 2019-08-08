@@ -1,0 +1,7 @@
+created: 20190808095447277
+modified: 20190808095653315
+tags: [[My Code]]
+title: my-jsfiddle
+type: text/vnd.tiddlywiki
+
+<$macrocall $name="jsfiddle" user={{my-public-data##default-account}}>>

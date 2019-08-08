@@ -1,0 +1,7 @@
+created: 20190808095317119
+modified: 20190808095442670
+tags: $:/tags/Macro
+title: $:/paulojeronimo/macros/jsfiddle
+type: text/vnd.tiddlywiki
+
+\define jsfiddle(user) https://jsfiddle.net/user/$user$

@@ -1,9 +1,8 @@
 caption: finisher.tech
 color: #ff9200
 created: 20190530141440568
-modified: 20190802103542875
-revision: 0
-tags: FinisherTech Projects
+modified: 20190807221818708
+tags: Projects
 title: FinisherTech
 type: text/vnd.tiddlywiki
 
@@ -11,4 +10,4 @@ My company focused on the development of software products to ''health preventio
 
 * [[Products|FinisherTechProducts]]
 * [[Technologies|FinisherTechTechnologies]]
-* We develop [[Open Source]] software. ''Please, [[support the development of our products|FinisherTechFunding]]!''
+* We develop {{Open Source}} software. ''Please, [[support the development of our products|FinisherTechFunding]]!''

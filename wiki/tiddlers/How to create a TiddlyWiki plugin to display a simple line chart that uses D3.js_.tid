@@ -1,8 +1,7 @@
 created: 20190617143104476
-modified: 20190712152526694
-revision: 0
+modified: 20190808075615648
 subject: TiddlyWiki
-tags: JavaScript GoalsOf2019Week25 D3.js Article todo
+tags: [[Data Visualization Article]] JavaScript GoalsOf2019Week25 D3.js Article todo
 title: How to create a TiddlyWiki plugin to display a simple line chart that uses D3.js?
 type: text/vnd.tiddlywiki
 

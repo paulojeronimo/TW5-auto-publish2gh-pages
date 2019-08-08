@@ -1,0 +1,10 @@
+created: 20190807153451836
+modified: 20190807202707675
+title: Trading
+type: text/vnd.tiddlywiki
+
+Beyond {{my work}} as a [[software developer|Software Development]],
+I am also improving my skills in [[Trading|https://en.wikibooks.org/wiki/Trading]] especially using [[Cryptocurrencies]].
+
+Currently, I'm studying and doing Trading to make money and {{support myself financially}}. My areas of study are:
+<<list-links "[tag[$(currentTiddler)$]sort[title]]">>

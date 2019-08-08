@@ -1,8 +1,6 @@
 created: 20190730181254581
-modified: 20190730181321134
-revision: 0
-tags: ECharts
+modified: 20190807220133238
 title: ECharts
 type: text/vnd.tiddlywiki
 
-* https://echarts.apache.org
+[[ECharts|https://echarts.apache.org]]

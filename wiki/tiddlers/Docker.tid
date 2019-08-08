@@ -1,7 +1,8 @@
 color: #aa7941
 created: 20190615134942243
-modified: 20190615135009151
-revision: 0
+modified: 20190807180751557
+tags: Docker
 title: Docker
 type: text/vnd.tiddlywiki
 
+[[Docker|https://www.docker.com/]]

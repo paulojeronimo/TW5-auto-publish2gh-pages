@@ -1,0 +1,7 @@
+created: 20190808091603408
+modified: 20190808095708578
+tags: [[My Code]]
+title: my-vizhub
+type: text/vnd.tiddlywiki
+
+<$macrocall $name="vizhub" user={{my-public-data##default-account}}>>

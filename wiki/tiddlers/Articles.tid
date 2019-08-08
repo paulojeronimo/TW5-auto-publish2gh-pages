@@ -1,9 +1,7 @@
 created: 20190615170733153
-modified: 20190729101020561
-revision: 0
+modified: 20190808083631329
 tags: TableOfContents
 title: Articles
 type: text/vnd.tiddlywiki
 
-* {{Done||green}}: <<list-links "[tag[Article]!tag[todo]sort[title]]">>
-* ''{{To do||red}}'': <<list-links "[tag[Article]tag[todo]sort[title]]">>
+<<tabs "[tag[Articles Tab]]" [[Data Visualization Articles Tab]]>>

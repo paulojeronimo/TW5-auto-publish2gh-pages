@@ -1,26 +1,26 @@
 created: 20190730180016937
-modified: 20190730194011232
-revision: 0
-tags: billboard.js ECharts Recharts Victory C3.js VX D3.js React react-vis
+list: 
+modified: 20190808072731266
+tags: [[Data Visualization Example]] Billboard.js ECharts Recharts Victory C3.js VX D3.js React React-vis
 title: Stacked Bar Chart examples (in many frameworks)
 type: text/vnd.tiddlywiki
 
 * [[Stacked Bar Chart|https://www.smashingmagazine.com/2017/03/understanding-stacked-bar-charts/]] examples:
-** [[VX]] ([[React]], [[D3.js]] based)
+** {{VX}} ({{React}}, {{D3.js}} based)
 *** https://vx-demo.now.sh/barstack
 *** https://vx-demo.now.sh/barstackhorizontal
-** [[Recharts]] ([[React]], [[D3.js]] based)
+** {{Recharts}} ({{React}}, {{D3.js}} based)
 *** http://recharts.org/en-US/examples/StackedBarChart
 **** ''My example:'' [[Stacked Bar Chart example with Recharts]]
-** [[react-vis]] ([[React]], [[D3.js]] based)
+** {{React-vis}} ({{React}}, {{D3.js}} based)
 *** https://uber.github.io/react-vis/examples/showcases/plots
 **** https://github.com/uber/react-vis/blob/master/showcase/plot/stacked-horizontal-bar-chart.js
-** [[Victory]] ([[React]], [[D3.js]] based)
+** {{Victory}} ({{React}}, {{D3.js}} based)
 *** https://formidable.com/open-source/victory/gallery/horizontal-grouped-bars
-** [[C3.js]] ([[D3.js]] based)
+** {{C3.js}} ({{D3.js}} based)
 *** https://c3js.org/samples/chart_bar_stacked.html
 **** ''My example:'' [[Stacked Bar Chart example with C3.js]]
-** [[billboard.js]] (a [[C3.js]] fork)
+** {{Billboard.js}} (a {{C3.js}} fork)
 *** https://naver.github.io/billboard.js/demo/#Chart.StackedBarChart
-** [[ECharts]]
+** {{ECharts}}
 *** https://echarts.apache.org/examples/en/editor.html?c=bar-y-category-stack

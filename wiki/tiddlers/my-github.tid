@@ -1,7 +1,7 @@
 created: 20190731190718471
-modified: 20190802213103863
-revision: 0
-tags: 
+modified: 20190808091443910
+tags: [[My Code]]
 title: my-github
+type: text/vnd.tiddlywiki
 
-<$macrocall $name="github" user={{my-public-data##github}}>>
+<$macrocall $name="github" user={{my-public-data##default-account}}>>

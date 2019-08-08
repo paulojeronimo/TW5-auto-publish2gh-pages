@@ -1,7 +1,7 @@
 created: 20190731190221219
-modified: 20190802211712595
-revision: 0
+modified: 20190808091406434
 tags: 
 title: my-email
+type: text/vnd.tiddlywiki
 
-<$macrocall $name="gmail" user={{my-public-data##gmail}}>>
+<$macrocall $name="gmail" user={{my-public-data##default-account}}>>

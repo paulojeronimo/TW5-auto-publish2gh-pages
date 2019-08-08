@@ -1,0 +1,7 @@
+created: 20190801152455227
+modified: 20190807213331055
+tags: $:/tags/Macro
+title: $:/paulojeronimo/macros/myGitHubRepoFile
+type: text/vnd.tiddlywiki
+
+\define myGitHubRepoFile(repo, file) [[$file$|https://github.com/paulojeronimo/$repo$/blob/master/$file$]]

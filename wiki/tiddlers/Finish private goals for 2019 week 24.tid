@@ -1,8 +1,7 @@
 created: 20190614213215256
-encrypted: {"iv":"AcpCboDd440X6jaAa5U0TQ==","v":1,"iter":10000,"ks":128,"ts":64,"mode":"ccm","adata":"","cipher":"aes","salt":"RArP+7Hm2Q4=","ct":"gIaDvO6hetfFqVME21sUzdfYpeqJpm/oMXjfI74Uo4sFkpPAZ8UkPuHzT/0l49tElcY1LL/cwuGTRU0v7boVs/s0f9dnOnsBwZ1THfyrO3PBt8yg/4BHO2A8EzEUd+RB0ehzSITa47pIUzSVN3Azdh961+/ATIksh6ghiuIgktvigzA8EwpXF9m4Ag/8x549ILDED9sCC8wHwpj8L93rC9suk3PehIRhEr2+IJSdIoOiMFC//MDYC/4PqammXG8lRClo8iMdCoX2MgaYWublzmOAZpxmlxYOuEH/7f+SR4zDCSQmspULA8nuy0knUpdqh2O41DFgw1IckWm1yuY="}
-modified: 20190617103048965
-revision: 0
-tags: GoalsOf2019Week24 done
+encrypted: {"iv":"0ZJmE5qrjNTkPfkPMqdfFg==","v":1,"iter":10000,"ks":128,"ts":64,"mode":"ccm","adata":"","cipher":"aes","salt":"RArP+7Hm2Q4=","ct":"kdaKtPjgDJmVGJn+SxJG5j/EV+btTHAPbhpSSKoIXzBTjavzZP6gtGPjfgf4LTl7SQeN1bqNnuR8VAnjp2O7lgbdNtRJXcpEzvzXYl6n2Aq9+5YiRQw/gVW4VpPL8T26w86M+tlM2Q7XDaPS2B+E/rPsvkqrJXI7Ym7+xdRyByTJQmmaXmMI1HBklajS60J3X+G2s4H3hB42G7C5tjba7jEL3gTkK1qet7AnDOlPbk0MGV6+rn+wgbF5tiEcpPtHPPwMj5d6LBakAoYjEza+bDQJQiHIty1omlMM6HBJpHMw8VdUeEiH86UIy1aqMbshUN8Xc0B+wciVuhQ+JEM="}
+modified: 20190807211027283
+tags: GoalsOf2019Week24
 title: Finish private goals for 2019 week 24
 type: text/vnd.tiddlywiki
 
