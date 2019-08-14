@@ -7,3 +7,5 @@ WIKI=wiki
 
 DOCKER_IMAGE_NAME=paulojeronimo/tiddlywiki
 DOCKER_IMAGE_VERSION=latest
+
+source "$WIKI_BASE_DIR/.travis.variables" || true

@@ -22,6 +22,17 @@ _load() {
   tiddlywiki $WIKI --load "$1"
 }
 
+_publish() {
+  _build
+  true || {
+    local ghs=${!GH@}
+    for gh in $ghs; do
+      echo "$gh=${!gh}"
+    done
+  }
+  "$BASE_DIR"/publish
+}
+
 main "$@"
 
 # vim: set ts=2 sw=2 et:

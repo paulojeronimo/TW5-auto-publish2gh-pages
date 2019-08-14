@@ -12,7 +12,7 @@ cd $WIKI_BASE_DIR/$WIKI/output || exit 1 # abort script if folder does not exist
 git init
 
 # inside this repo we'll pretend to be a new user
-git config user.name "Travis CI"
+git config user.name "${GH_USER:-Travis CI}"
 git config user.email "${GH_EMAIL}"
 
 # The first and only commit to this new Git repo contains all the
