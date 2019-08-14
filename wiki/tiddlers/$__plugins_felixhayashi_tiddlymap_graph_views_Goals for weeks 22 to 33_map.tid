@@ -1,0 +1,44 @@
+created: 20190814094139509
+modified: 20190814192745835
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/Goals for weeks 22 to 33/map
+type: text/vnd.tiddlywiki
+
+{
+ "0c2bb208-03ae-4df1-8338-a0c4aba44f4f": {
+  "x": -1452,
+  "y": -592
+ },
+ "fffb0bd4-a6c0-4fca-ac55-d90c87d1ab1f": {
+  "x": -1151,
+  "y": -890
+ },
+ "73eabb03-85d6-4008-920d-50df17de43cd": {
+  "x": -905,
+  "y": -502
+ },
+ "24f3a2fd-40d6-4731-a44c-5ad9e72134ab": {
+  "x": -1022,
+  "y": -832
+ },
+ "f6f7398d-28f8-4d69-a318-539c1eaeb643": {
+  "x": -887,
+  "y": -748
+ },
+ "3a7aaade-aa6f-48b5-a0c7-33c3b91d3c63": {
+  "x": -966,
+  "y": -667
+ },
+ "a4b98521-9648-490d-8cac-e26215ed09f1": {
+  "x": -844,
+  "y": -578
+ },
+ "81a63251-e9ad-4015-9ea6-d4f4ae81412b": {
+  "x": -1019,
+  "y": -415
+ },
+ "1bb8d0c3-3314-4c69-8310-d9ee291adead": {
+  "open-view": "Default",
+  "x": -1546,
+  "y": -790
+ }
+}

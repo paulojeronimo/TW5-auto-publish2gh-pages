@@ -1,0 +1,8 @@
+created: 20190814102108726
+modified: 20190814105920250
+tags: UAA [[GitHub Repo]] [[I Wrote]] Tutorial [[Cloud Foundry]]
+title: uaa-tutorial
+tmap.id: a6ab6569-1f35-4e0a-b9b3-b08533560c62
+type: text/vnd.tiddlywiki
+
+<<myGitHubRepo $(currentTiddler)$>>

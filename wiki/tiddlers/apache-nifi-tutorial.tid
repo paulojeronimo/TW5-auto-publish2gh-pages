@@ -1,0 +1,8 @@
+created: 20190814102134063
+modified: 20190814105830802
+tags: NiFi [[GitHub Repo]] [[I Wrote]] Tutorial
+title: apache-nifi-tutorial
+tmap.id: 43f1a21a-c792-4ed9-896b-6fea16f2c6e2
+type: text/vnd.tiddlywiki
+
+<<myGitHubRepo $(currentTiddler)$>>

@@ -1,7 +1,8 @@
 created: 20190615161404840
-modified: 20190807213217780
+modified: 20190813174304009
 tags: GoalsOf2019Week26 Article Udemy Bash todo
 title: How do I download and rename my bought Udemy courses to view offline on my mobile phone?
+tmap.id: a8437914-cd25-492f-bfa6-4aa31d0072bc
 type: text/vnd.tiddlywiki
 
 * TODO: write about <<myGitHubRepoFile dotfiles .scripts/rename-udemy-files script>> and related things ...

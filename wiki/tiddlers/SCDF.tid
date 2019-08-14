@@ -1,0 +1,8 @@
+created: 20190814110013382
+modified: 20190814110701082
+tags: Spring
+title: SCDF
+tmap.id: d9496e9a-b19d-4eef-9a4b-8a6dc90f619e
+type: text/vnd.tiddlywiki
+
+<<gitHubRepo spring-cloud/spring-cloud-dataflow>>

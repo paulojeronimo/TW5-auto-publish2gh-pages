@@ -1,7 +1,8 @@
 created: 20190731185926365
-modified: 20190802213405191
-revision: 0
+modified: 20190813174304225
 tags: 
 title: my-phone-number
+tmap.id: 54cb17a8-fc4b-4738-b2ad-c6497efbd6e6
+type: text/vnd.tiddlywiki
 
 {{my-public-data##phone-number}}

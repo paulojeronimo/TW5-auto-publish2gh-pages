@@ -1,0 +1,8 @@
+created: 20190814102215656
+modified: 20190814105808702
+tags: SCDF [[GitHub Repo]] [[I Wrote]] Tutorial
+title: spring-cloud-dataflow-tutorial
+tmap.id: f997706e-e04d-4de5-ba4c-9e4f2f2e1b9e
+type: text/vnd.tiddlywiki
+
+<<myGitHubRepo $(currentTiddler)$>>

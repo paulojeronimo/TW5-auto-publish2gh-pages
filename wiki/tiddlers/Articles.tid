@@ -1,7 +1,9 @@
 created: 20190615170733153
-modified: 20190808083631329
+modified: 20190814095641347
 tags: TableOfContents
 title: Articles
+tmap.edges: {"6a9419d9-b34f-4612-932d-476e11e81765":{"to":"fe669f42-d6b0-4eb5-b216-1a4776cd22f2","type":"to optionally compose"}}
+tmap.id: 64f7c9bb-c55c-460c-be94-8acda57f0438
 type: text/vnd.tiddlywiki
 
 <<tabs "[tag[Articles Tab]]" [[Data Visualization Articles Tab]]>>

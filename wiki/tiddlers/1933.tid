@@ -1,0 +1,16 @@
+created: 20190813134553013
+modified: 20190813185407058
+tags: mdx-deck ES6 Babel Week npmjs.com np
+title: 1933
+tmap.id: c692d6c1-f913-4059-baf8-f6636188a9f0
+type: text/vnd.tiddlywiki
+
+!!! Week 33 in 2019 (Aug 12 - Aug 18)
+!!! Monday:
+* Studied about how to produce npm packages using {{npmjs.com}}, {{ES6}} syntax, {{np}} and {{Babel}}.
+** Built some projects:
+*** {{npm-package-test}} created.
+*** {{npm-package-use}} created.
+*** {{npm-package-tutorial}}.
+* Useful tools discovered: {{Grip}}, {{mdx-deck}}.
+** [[mdx-deck references]].

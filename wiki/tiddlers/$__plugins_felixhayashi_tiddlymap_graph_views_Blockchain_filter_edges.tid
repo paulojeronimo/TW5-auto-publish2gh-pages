@@ -1,0 +1,6 @@
+created: 20190813203807066
+filter: -[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
+modified: 20190813203807066
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/Blockchain/filter/edges
+type: text/vnd.tiddlywiki
+

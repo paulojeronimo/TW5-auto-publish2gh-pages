@@ -1,18 +1,21 @@
 created: 20190729111015483
-modified: 20190802125325053
-revision: 0
-tags: TableOfContents JavaScript React Gatsby Kotlin Solidity Bash Groovy Python Gradle Jinja Java D3.js ReactNative
+modified: 20190814193419247
+tags: Ethereum Blockchain TableOfContents JavaScript React Gatsby Kotlin Solidity Bash Groovy Python Gradle Jinja Java D3.js ReactNative
 title: Software Development
+tmap.edges: {"8ef10a70-7eee-4eaa-921f-ac7419513eb3":{"to":"c2e2eb22-413c-406b-9f9e-eaf98dac4eff","type":"using"},"a8c6264a-9ef3-4883-83d9-2a3ef1a78924":{"to":"149ea3ac-3f26-4fea-87e5-9f4fa7c91f4f","type":"to build"},"3ede5a00-2ece-4412-af79-170f14454d0a":{"to":"cecbab3d-8408-4b0d-9a63-5817863c2693","type":"to build"},"b4e57afc-b91b-4bbf-84de-f658d5d36fda":{"to":"e8cca0e3-3a9f-40b0-9693-355b64510a24","type":"to build"},"ee341bcb-df75-41b7-8fbd-e893cf6dadc4":{"to":"5fd55466-425d-4663-9489-4c49761bc9a6","type":"is beautiful with"},"70010328-376a-4f2f-a753-42d8198eb0a0":{"to":"ef8f05fb-e87a-41cb-bf32-db136c06253f","type":"to create amazing"}}
+tmap.fa-icon: f109
+tmap.id: 378a437c-e545-40b7-bb32-932f03e7e755
+tmap.style: {}
 type: text/vnd.tiddlywiki
 
 Currently, ''I'm interested in software development'' using the languages and technologies listed below:
 
 * Primary focus:
-** {{JavaScript}}:
-*** {{React}}, {{React Native}} and {{Gatsby}}.
+** JavaScript:
+*** [[React]], [[React Native]] and [[Gatsby]].
 *** {{D3.js}} and {{data visualization}} frameworks based on it.
 ** {{Kotlin}} //({{I'm not excited to develop applications directly in||red}} {{Java}})//.
-** {{Ethereum}} and {{Solidity}}.
+** {{Ethereum}} {{Blockchain}} and {{Solidity}}.
 * Other:
 ** {{Bash}}
 ** {{Groovy}}: {{Gradle}}

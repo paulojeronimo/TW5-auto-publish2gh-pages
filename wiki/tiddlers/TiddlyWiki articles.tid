@@ -1,9 +1,9 @@
 caption: Articles
 created: 20190619182018441
-modified: 20190802213742951
-revision: 0
+modified: 20190813174304276
 tags: TiddlyWikiTab TiddlyWiki
 title: TiddlyWiki articles
+tmap.id: 5fcf2ca0-67b0-4d47-9e81-e5d897ee1cfc
 type: text/vnd.tiddlywiki
 
 <<list-links "[tag[Article]subject[TiddlyWiki]]">>

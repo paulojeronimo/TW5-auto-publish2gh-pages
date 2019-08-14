@@ -1,0 +1,18 @@
+created: 20190813101401605
+modified: 20190814174935976
+tags: Ethereum Blockchain
+title: my-blockchain-things
+tmap.edges: {"210d7f15-dac7-4d30-a746-404ca5ffb8d7":{"to":"27045cf7-d295-4261-89c1-f4ceb17ecf01","type":"includes"},"4afe508c-7866-4f92-b896-0d52131e1700":{"to":"f8c9e79f-94f7-4dec-8936-bebcddb141a9","type":"includes"},"12e2e329-d9d6-42ee-83d9-afc1dbea3807":{"to":"da4deaaa-6cc9-4e77-b9a9-af9567ccb029","type":"includes"}}
+tmap.id: 223bab8a-71bd-4ff7-9848-3dc79ba13a8b
+type: text/vnd.tiddlywiki
+
+!!! Awards:
+{{my-blockchain-awards}}
+!!! ~GitHub projects:
+{{my-blockchain-repositories}}
+!!! Articles & Tutorials:
+* [[Blockchain: Uma visualização gráfica|https://blockchain4devs.github.io/blockchain-demo/docs/pt-br/]] //({{pt-br}})//
+!!! Videos:
+{{my-blockchain-videos}}
+!!! Presentations:
+* [[Blockchain para desenvolvedores Java|https://blockchain4devs.github.io/dfjug1ano]] //({{pt-br}})//

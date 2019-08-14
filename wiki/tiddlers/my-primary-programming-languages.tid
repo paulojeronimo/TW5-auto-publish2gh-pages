@@ -1,0 +1,11 @@
+created: 20190813182659444
+modified: 20190814101053717
+title: my-primary-programming-languages
+tmap.edges: {"bc935a8c-594e-4917-be8d-bcae53b511cd":{"to":"664aa721-c4d1-45be-8a93-38a9010b8ce9","type":"includes"},"e214abbc-1c6b-4bbd-9968-ae7b97102b2a":{"to":"88a5d22f-6182-4182-bd0a-0017204f711e","type":"includes"},"66e89401-fe72-41a8-8344-43ec4400c1cc":{"to":"435ace34-5f56-42d6-8997-d6c074b19314","type":"are deprecating"},"c454a585-329b-4290-a44d-9416b1915bc8":{"to":"cb2ada19-0bb9-4535-8bdb-6c5f0b904091","type":"includes"},"49dcbb44-a96f-4043-900d-a438beb023d4":{"to":"d2b2ae5f-76ff-48a1-976e-a988cb8b628c","type":"includes"},"41ed8bae-6397-4f2c-a969-146ab7417de6":{"to":"723546fc-7ce5-4c57-bed2-b9c0873d4130","type":"includes"}}
+tmap.id: c2e2eb22-413c-406b-9f9e-eaf98dac4eff
+type: text/vnd.tiddlywiki
+
+!! Active:
+<<list-links "[tag[Programming Language]tag[I Use]sort[title]]">>
+!! Deprecating:
+<<list-links "[tag[Programming Language]tag[Deprecating]sort[title]]">>

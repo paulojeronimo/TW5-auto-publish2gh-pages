@@ -1,10 +1,10 @@
 caption: /products
 color: #ff9200
 created: 20190530161844373
-modified: 20190604132014551
-revision: 0
+modified: 20190813174304054
 tags: FinisherTech
 title: FinisherTechProducts
+tmap.id: 8ddad8dd-7d66-414c-b546-4202bad4173b
 type: text/vnd.tiddlywiki
 
 <<list-links [tag[$(currentTiddler)$]sort[title]]>>

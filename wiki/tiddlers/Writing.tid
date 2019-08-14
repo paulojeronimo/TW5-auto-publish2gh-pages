@@ -1,0 +1,16 @@
+created: 20190814183139654
+modified: 20190814192619880
+tags: 
+title: Writing
+tmap.edges: {"0a4dd171-4e72-4ab0-9ac8-dc6bb17120af":{"to":"653d4308-7574-4c06-b76c-7472ba2f00ac","type":"using"},"367acc4c-5155-4c38-9e97-cd24ad8b894d":{"to":"5c2eb920-785a-49ec-92ab-a16640bd6bbb","type":"using"},"9e39e7dd-984d-4b08-888d-882067608646":{"to":"20da8bb6-7bb7-470a-8f4b-785cbcd57533","type":"avoiding"},"288e3f7b-af69-4782-af94-e1ca2ea5877b":{"to":"379ce049-1434-4126-801e-388b74dc8dba","type":"using"},"2fae2b6b-da55-491e-9418-02f3365045d6":{"to":"be41dfe1-f83b-4ebb-aa44-9fc461450808","type":"using"},"b009a67a-e589-4ee8-9887-4fbe3840ec6f":{"to":"64f7c9bb-c55c-460c-be94-8acda57f0438","type":"to produce"},"c5d730ed-aa89-4da8-b4c0-5c90071dfc5f":{"to":"cca217c8-0ed1-4a9a-8ba2-8311cb4fb798","type":"to produce"},"7937aee2-4108-4daf-8eae-6c43b36c3daa":{"to":"fe669f42-d6b0-4eb5-b216-1a4776cd22f2","type":"to produce"},"191a6e7a-c73c-4a95-adb0-9b6005db9839":{"to":"523e8b21-e096-4a43-84aa-d635fe381be2","type":"using"}}
+tmap.fa-icon: f040
+tmap.id: 13c1f521-cf28-4d8b-a4a6-30f3934e5121
+tmap.style: {}
+type: text/vnd.tiddlywiki
+
+Doing [[my work|my-work]], I need to remember things related to what I'm learning or creating.
+So, I like to write {{articles}} and {{tutorials}}.
+Writing texts using markup languages and text editors like {{Vim}} (my favorite) make me productive.
+So I started to produce documents in {{AsciiDoc}} format, and I do such kind of writing since 2014 when I started to write [[a book|https://github.com/paulojeronimo/livro-jboss]] in {{Brazilian Portuguese}} ({{pt-br}} - my native language) about the [[JBoss Application Server]].
+But, before that, I also was a {{Txt2tags}} and TiddlyWiki user.
+So, I also like to write things in {{WikiText}} format.

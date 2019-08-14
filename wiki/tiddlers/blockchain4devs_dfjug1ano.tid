@@ -1,0 +1,8 @@
+created: 20190813202147475
+modified: 20190814104558513
+tags: [[I Wrote]] Solidity [[GitHub Repo]] Ethereum Slides
+title: blockchain4devs/dfjug1ano
+tmap.id: ec6a688c-c3e2-4911-abf9-352752161e09
+type: text/vnd.tiddlywiki
+
+<<gitHubRepo $(currentTiddler)$>>

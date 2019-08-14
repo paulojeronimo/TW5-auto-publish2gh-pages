@@ -1,7 +1,8 @@
 created: 20190731190443067
-modified: 20190808091518221
+modified: 20190813174304210
 tags: 
 title: my-twitter
+tmap.id: c8f5f549-2703-4eb4-9d27-c4d25dcccb5e
 type: text/vnd.tiddlywiki
 
 <$macrocall $name="twitter" user={{my-public-data##default-account}}>>

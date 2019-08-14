@@ -1,7 +1,9 @@
 created: 20190729222955437
-modified: 20190808072319089
-tags: [[Data Visualization Example]] [[My Code]] [[Stacked Bar Chart]] D3.js React Recharts
+modified: 20190814170511688
+tags: [[I Wrote]] [[JSFiddle Repo]] [[Data Visualization Example]] [[Stacked Bar Chart]] D3.js React Recharts
 title: Stacked Bar Chart example with Recharts
+tmap.edges: {"053345ca-9218-41a2-b50f-9c51fa0d2fe0":{"to":"8e782b2d-923e-473a-832f-3c99b88e81a8","type":"published in"}}
+tmap.id: 306b4595-9951-452a-af3f-93f1fb521de0
 type: text/vnd.tiddlywiki
 
 <iframe width="100%" height="400" src="//jsfiddle.net/paulojeronimo/50c43wks/embedded/result/" allowfullscreen="allowfullscreen" allowpaymentrequest frameborder="0"></iframe>

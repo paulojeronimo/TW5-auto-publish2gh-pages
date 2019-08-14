@@ -1,0 +1,8 @@
+created: 20190813201234540
+modified: 20190814104803061
+tags: Ethereum [[I Wrote]] Tutorial JavaScript Solidity [[GitHub Repo]]
+title: ethereum-pet-shop-tutorial
+tmap.id: 3d227b61-3d9b-43cc-af8b-f21245e9ae61
+type: text/vnd.tiddlywiki
+
+<<myGitHubRepo $(currentTiddler)$>>

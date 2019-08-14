@@ -1,8 +1,8 @@
 color: #0432ff
 created: 20190603122615165
-modified: 20190712183819142
-revision: 0
+modified: 20190813174304183
 title: Past goals
+tmap.id: d1cab0f0-67fb-4daf-af7b-c2c235d998ba
 type: text/vnd.tiddlywiki
 
 <<list-links "[tag[$(currentTiddler)$]!sort[title]]">>

@@ -1,0 +1,18 @@
+created: 20190814115219621
+modified: 20190814160926884
+title: $:/paulojeronimo/templates/youtube
+tmap.id: 373cdccc-77ca-4e94-8428-2bd831709c72
+type: text/vnd.tiddlywiki
+
+\define youTubeLink() [[$(title)$|$(link)$]]
+\define youTubeUserLink() [[$(user)$|https://youtube.com/user/$(user)$]]
+
+<$vars user={{!!youtube-user}} title={{!!youtube-title}} link={{!!youtube-link}}>
+<$macrocall $name=youTubeLink title=<<title>> link=<<link>>/>
+(
+<$reveal text=<<user>> type="nomatch" default="no">
+  <$macrocall $name=youTubeUserLink user=<<user>>/>
+</$reveal>
+{{!!youtube-date}}
+)
+</$vars>

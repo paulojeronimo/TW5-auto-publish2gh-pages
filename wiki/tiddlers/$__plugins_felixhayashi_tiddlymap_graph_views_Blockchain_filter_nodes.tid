@@ -1,0 +1,6 @@
+created: 20190813204236275
+filter:  [field:tmap.id[50f89118-04d8-44e5-9b8d-a1c88f1de3ac]] [field:tmap.id[fe294c7a-3dae-4e8f-8833-f1c503f4a1dc]] [field:tmap.id[5c407676-1e86-4dd8-9f8c-f5a4c2e58511]] [field:tmap.id[e9938548-6dc8-45a1-a6d9-2cc235011015]] [field:tmap.id[378a437c-e545-40b7-bb32-932f03e7e755]] [field:tmap.id[6ebe38a4-3d49-4b62-802e-fe549d81f061]] [field:tmap.id[223bab8a-71bd-4ff7-9848-3dc79ba13a8b]] [field:tmap.id[27045cf7-d295-4261-89c1-f4ceb17ecf01]] [field:tmap.id[f8c9e79f-94f7-4dec-8936-bebcddb141a9]] [field:tmap.id[da4deaaa-6cc9-4e77-b9a9-af9567ccb029]] [field:tmap.id[ef8f05fb-e87a-41cb-bf32-db136c06253f]]
+modified: 20190814193401908
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/Blockchain/filter/nodes
+type: text/vnd.tiddlywiki
+

@@ -1,7 +1,9 @@
 created: 20190731190718471
-modified: 20190808091443910
-tags: [[My Code]]
+modified: 20190814182845915
 title: my-github
+tmap.fa-icon: f09b
+tmap.id: ef1a3989-a234-4e7e-9c02-9e4c86c25d19
+tmap.style: {}
 type: text/vnd.tiddlywiki
 
 <$macrocall $name="github" user={{my-public-data##default-account}}>>

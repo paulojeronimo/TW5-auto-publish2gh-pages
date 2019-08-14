@@ -1,8 +1,8 @@
 created: 20190617101726593
-modified: 20190801151207243
-revision: 0
+modified: 20190813174304121
 tags: TrainingPlans RioHalfMarathon GoalsOf2019Week25 done
 title: Create and publish a chart for my Sunday running plans until Rio Half Marathon
+tmap.id: 542c7c0d-bd0d-4da8-88b5-b8a6e5d5809c
 type: text/vnd.tiddlywiki
 
 * Using JavaScript and TiddlyWiki, create a line chart (<<myWikiImg 20190617_105121_resize_10.jpg 'like this'>>) that shows my running <<tag TrainingPlans>> on Sundays, until RioHalfMarathon.

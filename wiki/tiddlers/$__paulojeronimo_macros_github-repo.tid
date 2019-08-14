@@ -1,0 +1,7 @@
+created: 20190813114856556
+modified: 20190813115422095
+tags: $:/tags/Macro
+title: $:/paulojeronimo/macros/github-repo
+type: text/vnd.tiddlywiki
+
+\define gitHubRepo(user_repo) [[$user_repo$|https://github.com/$user_repo$]]

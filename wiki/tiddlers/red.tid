@@ -1,7 +1,7 @@
 created: 20190619184616864
-modified: 20190619191608926
-revision: 0
+modified: 20190813174304146
 title: red
+tmap.id: 5f8137f1-a8a6-458a-9d7c-960335e384b1
 type: text/vnd.tiddlywiki
 
 \define red(text)

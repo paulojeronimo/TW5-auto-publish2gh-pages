@@ -1,0 +1,56 @@
+created: 20190813174327906
+modified: 20190814200325499
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/Default/map
+type: text/vnd.tiddlywiki
+
+{
+ "1bb8d0c3-3314-4c69-8310-d9ee291adead": {
+  "x": -745,
+  "y": -243
+ },
+ "378a437c-e545-40b7-bb32-932f03e7e755": {
+  "open-view": "Software Development",
+  "x": -999,
+  "y": -245
+ },
+ "86713b3c-4a8d-4d6e-b10b-255094ee273f": {
+  "x": -699,
+  "y": -386
+ },
+ "77c5aa34-4a13-4439-88db-29ed42a770ea": {
+  "x": -557,
+  "y": -143
+ },
+ "0c2bb208-03ae-4df1-8338-a0c4aba44f4f": {
+  "open-view": "Goals for weeks 22 to 33",
+  "x": -794,
+  "y": -12
+ },
+ "c5049141-8125-4fe4-912b-244d67927fb4": {
+  "x": -482,
+  "y": -477
+ },
+ "5d4090e7-1829-4fc9-9eac-c93b15869012": {
+  "x": -412,
+  "y": -273
+ },
+ "7265acab-407b-4024-8c17-d5462432c927": {
+  "label": "weekly",
+  "x": -998,
+  "y": -67
+ },
+ "13c1f521-cf28-4d8b-a4a6-30f3934e5121": {
+  "open-view": "Writing",
+  "x": -855,
+  "y": -417
+ },
+ "5fd55466-425d-4663-9489-4c49761bc9a6": {
+  "x": -1044,
+  "y": -451
+ },
+ "ef8f05fb-e87a-41cb-bf32-db136c06253f": {
+  "open-view": "Blockchain",
+  "x": -1240,
+  "y": -377
+ }
+}

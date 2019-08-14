@@ -1,8 +1,8 @@
 created: 20190602140144127
-modified: 20190614215621619
-revision: 0
+modified: 20190813174304119
 tags: GoalsOf2019Week25 GoalsOf2019Week23
 title: Create and release the elementary first version of finisher.tech's Tabata app
+tmap.id: bc148caa-f015-416a-a565-16267e3429f8
 type: text/vnd.tiddlywiki
 
 * Create the first (very simple and elementary) version of [[finisher.tech tabata app|FinisherTechTabataApp]] using [[React Native|ReactNative]].

@@ -1,6 +1,7 @@
 created: 20190802213120300
-modified: 20190802213210664
+modified: 20190813114856755
 tags: $:/tags/Macro
 title: $:/paulojeronimo/macros/github
+type: text/vnd.tiddlywiki
 
 \define github(user) https://github.com/$user$

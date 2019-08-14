@@ -1,9 +1,10 @@
 color: #aa7941
 created: 20190615145517944
-modified: 20190802111858092
-revision: 0
-tags: JavaScript
+modified: 20190814100230038
+tags: [[I Use]] [[Programming Language]]
 title: JavaScript
+tmap.edges: {}
+tmap.id: 88a5d22f-6182-4182-bd0a-0017204f711e
 type: text/vnd.tiddlywiki
 
 [[JavaScript|https://developer.mozilla.org/en-US/docs/Web/JavaScript]]

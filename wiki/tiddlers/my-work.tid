@@ -1,11 +1,12 @@
 created: 20190807183013379
-modified: 20190807203857324
+modified: 20190813174304204
 tags: 
 title: my-work
+tmap.id: ce9c1b66-4ebf-4fc2-931c-bfdd809b02c3
 type: text/vnd.tiddlywiki
 
 * [[Software Development]]:
-** Focused on writing ''mobile apps'' for my {{projects}}.
-** Using languages like {{JavaScript}}, {{Kotlin}}, {{Python}} and {{Solidity}}.
+** Focused on writing ''mobile apps'' that uses <<tag Blockchain>> technologies in my {{projects}}.
+** Using languages like <<tag JavaScript>>, {{Kotlin}}, {{Python}} and {{Solidity}} (used by {{Ethereum}}).
 ** Using [[Data Visualization]] tools, libraries, and frameworks.
 * <<tag Trading>> - to broaden my skills in this area and for {{support myself financially}}.

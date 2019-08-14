@@ -1,0 +1,6 @@
+created: 20190814184219722
+filter: -[prefix[_]] -[[tw-body:link]] -[[tw-list:tags]] -[[tw-list:list]]
+modified: 20190814184219722
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/Writing/filter/edges
+type: text/vnd.tiddlywiki
+

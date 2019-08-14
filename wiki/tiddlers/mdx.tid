@@ -1,0 +1,9 @@
+created: 20190814190535026
+modified: 20190814191000971
+tags: [[GitHub Repo]]
+title: mdx
+tmap.edges: {"6f1ae070-17f9-428a-8581-014430ad1df2":{"to":"5c2eb920-785a-49ec-92ab-a16640bd6bbb","type":"uses"},"b171b4b9-d17d-44f0-a608-d02b6236d735":{"to":"be41dfe1-f83b-4ebb-aa44-9fc461450808","type":"uses"}}
+tmap.id: cd318392-1271-4b74-995d-02ea3b0aeeea
+type: text/vnd.tiddlywiki
+
+<<gitHubRepo mdx-js/mdx>>

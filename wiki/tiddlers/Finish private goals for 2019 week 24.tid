@@ -1,8 +1,9 @@
 created: 20190614213215256
 encrypted: {"iv":"0ZJmE5qrjNTkPfkPMqdfFg==","v":1,"iter":10000,"ks":128,"ts":64,"mode":"ccm","adata":"","cipher":"aes","salt":"RArP+7Hm2Q4=","ct":"kdaKtPjgDJmVGJn+SxJG5j/EV+btTHAPbhpSSKoIXzBTjavzZP6gtGPjfgf4LTl7SQeN1bqNnuR8VAnjp2O7lgbdNtRJXcpEzvzXYl6n2Aq9+5YiRQw/gVW4VpPL8T26w86M+tlM2Q7XDaPS2B+E/rPsvkqrJXI7Ym7+xdRyByTJQmmaXmMI1HBklajS60J3X+G2s4H3hB42G7C5tjba7jEL3gTkK1qet7AnDOlPbk0MGV6+rn+wgbF5tiEcpPtHPPwMj5d6LBakAoYjEza+bDQJQiHIty1omlMM6HBJpHMw8VdUeEiH86UIy1aqMbshUN8Xc0B+wciVuhQ+JEM="}
-modified: 20190807211027283
+modified: 20190813174304062
 tags: GoalsOf2019Week24
 title: Finish private goals for 2019 week 24
+tmap.id: bbd9a7b5-682c-47a6-a035-6e40499f142e
 type: text/vnd.tiddlywiki
 
 !This is an encrypted Tiddler

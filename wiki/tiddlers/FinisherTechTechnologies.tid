@@ -1,8 +1,9 @@
 caption: /tecnhonologies
 created: 20190711222040011
-modified: 20190808070440714
+modified: 20190813174304049
 tags: FinisherTech
 title: FinisherTechTechnologies
+tmap.id: a2144638-c603-48ec-96e9-d23f557a98b0
 type: text/vnd.tiddlywiki
 
 * Mobile development: {{React Native}}, {{Kotlin}}, {{Flutter}}, {{Native Script}}.

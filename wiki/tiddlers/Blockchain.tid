@@ -1,8 +1,9 @@
 created: 20190711230609903
-modified: 20190807221557484
+modified: 20190814111649766
 title: Blockchain
+tmap.edges: {"0be28ddf-aec8-4944-8fcd-81cebcf787d0":{"to":"fe294c7a-3dae-4e8f-8833-f1c503f4a1dc","type":"has several"}}
+tmap.id: 50f89118-04d8-44e5-9b8d-a1c88f1de3ac
+tmap.style: {}
 type: text/vnd.tiddlywiki
 
-* Things that I wrote:
-** https://blockchain4devs.github.io/blockchain-demo/docs/pt-br/
-** https://www.youtube.com/playlist?list=PL3jVhh9mXmz_FvGpXNvAydlg_vxVaJj1V
+[[Blockchain|https://en.wikipedia.org/wiki/Blockchain]]

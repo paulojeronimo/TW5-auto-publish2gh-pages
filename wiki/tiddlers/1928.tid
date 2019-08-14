@@ -1,0 +1,22 @@
+created: 20190712142142971
+modified: 20190813174303939
+tags: Week Jest Victory Mocha
+title: 1928
+tmap.id: 8929ea40-f957-44d6-b442-4ae4a0c63495
+type: text/vnd.tiddlywiki
+
+!!! Week 28 in 2019 (Jul 8 - Jul 14)
+!!! Friday:
+* I started to study and explore {{Victory}} features.
+* I continued the development of my {{simple-es6-tdd-example}}.
+* I studied a little about another Test Runner ({{Jest}}) after reviewed [[a video from "Fun Fun Function"|https://www.youtube.com/watch?v=pdx2HjFRaJY]].
+** {{Mocha}} vs Jest:
+*** https://blog.usejournal.com/jest-vs-mocha-whats-the-difference-235df75ffdf3
+!!! Thursday:
+* I started to develop {{simple-es6-tdd-example}}.
+** {{Mocha}} & ES6 references:
+*** https://dev.to/bnorbertjs/my-nodejs-setup-mocha--chai-babel7-es6-43ei
+*** http://jamesknelson.com/testing-in-es6-with-mocha-and-babel-6/
+*** https://egghead.io/lessons/javascript-how-to-write-a-javascript-library-adding-es6-support-to-tests-using-mocha-and-babel
+*** https://www.robinwieruch.de/node-js-testing-mocha-chai/
+* I presented [[FinisherTech]], things related to their products, and also things related to [[Data Visualization]] and [[Blockchain]] to coworkers of {{my-daughter}}.

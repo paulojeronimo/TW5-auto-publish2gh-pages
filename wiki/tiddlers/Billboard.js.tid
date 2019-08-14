@@ -1,8 +1,10 @@
 created: 20190730190451407
 list: 
-modified: 20190807215346782
+modified: 20190814172626799
 tags: C3.js
 title: Billboard.js
+tmap.edges: {"fcf86218-fe52-41c8-bdef-716cbf7a479c":{"to":"4a8b744a-4750-421b-9d78-4e46285e0d09","type":"forks"}}
+tmap.id: 4a3b7d59-19b0-412b-bd0d-9830115b9752
 type: text/vnd.tiddlywiki
 
 [[Billboard.js|https://naver.github.io/billboard.js]]

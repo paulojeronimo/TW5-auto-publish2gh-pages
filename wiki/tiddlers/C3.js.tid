@@ -1,6 +1,8 @@
 created: 20190730180729393
-modified: 20190807215936482
+modified: 20190814171853073
 title: C3.js
+tmap.edges: {"b3976a27-292b-4f2e-997c-69079d58b76b":{"to":"73a77f45-b664-403c-b03a-21f76a64629a","type":"based on"}}
+tmap.id: 4a8b744a-4750-421b-9d78-4e46285e0d09
 type: text/vnd.tiddlywiki
 
 [[C3.js|https://c3js.org/]]

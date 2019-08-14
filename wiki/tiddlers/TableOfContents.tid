@@ -1,10 +1,10 @@
 caption: {{$:/language/SideBar/Contents/Caption}}
 created: 20190529203639355
 list-before: $:/core/ui/SideBar/Open
-modified: 20190603113022852
-revision: 0
+modified: 20190813174304284
 tags: $:/tags/SideBar
 title: TableOfContents
+tmap.id: 5b96b764-6377-468f-b33d-82d6f9f37b52
 type: text/vnd.tiddlywiki
 
 <div class="tc-table-of-contents">

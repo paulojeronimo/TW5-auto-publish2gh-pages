@@ -1,0 +1,7 @@
+created: 20190814115219621
+modified: 20190814122108174
+title: youtube-template
+tmap.id: ee77d48a-e8ee-4e98-8f4a-41423764f7d3
+type: text/vnd.tiddlywiki
+
+<a href={{!!youtube-link}}>{{!!title}}</a> //({{!!youtube-date}})//

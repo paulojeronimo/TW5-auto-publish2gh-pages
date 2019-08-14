@@ -1,7 +1,8 @@
 created: 20190731190556498
-modified: 20190808091456523
+modified: 20190813174304227
 tags: 
 title: my-linkedin
+tmap.id: 6359c694-ebb7-4524-96de-b2f75866976b
 type: text/vnd.tiddlywiki
 
 <$macrocall $name="linkedin" user={{my-public-data##default-account}}>>

@@ -1,0 +1,13 @@
+created: 20190814112835152
+modified: 20190814162808841
+tags: 
+title: my-blockchain-videos
+tmap.id: 27045cf7-d295-4261-89c1-f4ceb17ecf01
+tmap.style: {}
+type: text/vnd.tiddlywiki
+
+<ul>
+<$list filter="[tag[YouTube]tag[Blockchain]tag[I Wrote]sort[title]]">
+<li>{{||$:/paulojeronimo/templates/youtube}}</li>
+</$list>
+</ul>

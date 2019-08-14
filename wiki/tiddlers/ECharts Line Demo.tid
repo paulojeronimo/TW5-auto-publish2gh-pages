@@ -1,8 +1,9 @@
 created: 20190711204126575
 list: 
-modified: 20190808074746853
+modified: 20190813174304075
 tags: TiddlyWiki todo Article ECharts D3.js Vue.js [[Data Visualization Article]]
 title: ECharts Line Demo
+tmap.id: c2a59857-591d-4036-aab6-0deec18927c6
 type: text/vnd.tiddlywiki
 
 * [[ECharts Line Demo|https://echarts.apache.org/examples/en/editor.html?c=line-style]] (TODO: configure it alive as on my solution with D3.js)

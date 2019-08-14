@@ -1,7 +1,8 @@
 created: 20190731190221219
-modified: 20190808091406434
+modified: 20190814135031251
 tags: 
 title: my-email
+tmap.id: e5045dbb-16bb-425b-9a86-b4fcfb9e1821
 type: text/vnd.tiddlywiki
 
-<$macrocall $name="gmail" user={{my-public-data##default-account}}>>
+<$macrocall $name=gmail user={{my-public-data##default-account}}>>

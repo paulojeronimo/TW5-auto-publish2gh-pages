@@ -1,17 +1,19 @@
 created: 20190530154416853
 list: 
-modified: 20190808104941795
+modified: 20190814101817755
 tags: TableOfContents
 title: Tutorials
+tmap.edges: {"611e2e66-2b9e-45c3-9696-c49b53bca15d":{"to":"fe669f42-d6b0-4eb5-b216-1a4776cd22f2","type":"to optionally compose"}}
+tmap.id: cca217c8-0ed1-4a9a-8ba2-8311cb4fb798
 type: text/vnd.tiddlywiki
 
-* See repositories with 'tutorial' in the name on [[my GitHub account|my-github]] (and also on organizations that I participate). Some of my last tutorials:
-** [[keycloak-spring-boot-tutorial|https://github.com/paulojeronimo/keycloak-spring-boot-tutorial]]
-** [[bosh-lite-tutorial|https://github.com/paulojeronimo/bosh-lite-tutorial]]
-** [[uaa-tutorial|https://github.com/paulojeronimo/uaa-tutorial]]
-** [[apache-nifi-tutorial|https://github.com/paulojeronimo/apache-nifi-tutorial]]
-** [[spring-cloud-dataflow-tutorial|https://github.com/paulojeronimo/spring-cloud-dataflow-tutorial]]
-** [[ethereum-pet-shop-tutorial|https://github.com/paulojeronimo/ethereum-pet-shop-tutorial]]
-** [[ethereum-tutorial-cotidiano|https://github.com/paulojeronimo/ethereum-tutorial-cotidiano]]
-** [[blockchain-demo|https://github.com/blockchain4devs/blockchain-demo]]
-* ''TODO'': Rewrite this tidller to fetch this list automatically.
+!! Some of my last tutorials:
+* [[keycloak-spring-boot-tutorial|https://github.com/paulojeronimo/keycloak-spring-boot-tutorial]]
+* [[bosh-lite-tutorial|https://github.com/paulojeronimo/bosh-lite-tutorial]]
+* [[uaa-tutorial|https://github.com/paulojeronimo/uaa-tutorial]]
+* [[apache-nifi-tutorial|https://github.com/paulojeronimo/apache-nifi-tutorial]]
+* [[spring-cloud-dataflow-tutorial|https://github.com/paulojeronimo/spring-cloud-dataflow-tutorial]]
+* [[ethereum-pet-shop-tutorial|https://github.com/paulojeronimo/ethereum-pet-shop-tutorial]]
+* [[ethereum-tutorial-cotidiano|https://github.com/paulojeronimo/ethereum-tutorial-cotidiano]]
+* [[blockchain-demo|https://github.com/blockchain4devs/blockchain-demo]]
+!! ''TODO'': Rewrite this tidller to fetch this list automatically.

@@ -1,7 +1,8 @@
 created: 20190801210429656
-modified: 20190807182118166
+modified: 20190814000730947
 tags: 
 title: CurrentWeek
+tmap.id: 7265acab-407b-4024-8c17-d5462432c927
 type: text/vnd.tiddlywiki
 
 ''The current week number is <<currentWeek>>'' (this is calculated by my [[currentWeek.js|$:/plugins/paulojeronimo/currentWeek.js]] TiddlyWiki plugin).

@@ -1,7 +1,9 @@
 created: 20190729232434725
-modified: 20190808072227884
-tags: [[Data Visualization Example]] [[My Code]] [[Stacked Bar Chart]] D3.js C3.js
+modified: 20190814170632795
+tags: [[I Wrote]] [[Data Visualization Example]] [[Stacked Bar Chart]] D3.js C3.js [[JSFiddle Repo]]
 title: Stacked Bar Chart example with C3.js
+tmap.edges: {"a017de4c-9817-401f-af1f-44edfa82dbc4":{"to":"8e782b2d-923e-473a-832f-3c99b88e81a8","type":"published in"}}
+tmap.id: f33b28b0-f0f9-4c2b-bd5a-4bb623bac3dd
 type: text/vnd.tiddlywiki
 
 <iframe width="100%" height="350" src="//jsfiddle.net/paulojeronimo/hsgdnwa4/embedded/result/" allowfullscreen="allowfullscreen" allowpaymentrequest frameborder="0"></iframe>

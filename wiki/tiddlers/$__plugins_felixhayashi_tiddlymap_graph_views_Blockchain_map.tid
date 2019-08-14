@@ -1,0 +1,55 @@
+created: 20190813204600495
+modified: 20190814193615770
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/Blockchain/map
+type: text/vnd.tiddlywiki
+
+{
+ "50f89118-04d8-44e5-9b8d-a1c88f1de3ac": {
+  "x": -1484,
+  "y": -622
+ },
+ "fe294c7a-3dae-4e8f-8833-f1c503f4a1dc": {
+  "x": -1434,
+  "y": -445
+ },
+ "5c407676-1e86-4dd8-9f8c-f5a4c2e58511": {
+  "x": -1280,
+  "y": -542
+ },
+ "e9938548-6dc8-45a1-a6d9-2cc235011015": {
+  "x": -1297,
+  "y": -290
+ },
+ "378a437c-e545-40b7-bb32-932f03e7e755": {
+  "open-view": "Software Development",
+  "x": -1757,
+  "y": -681
+ },
+ "6ebe38a4-3d49-4b62-802e-fe549d81f061": {
+  "x": -1440,
+  "y": -304
+ },
+ "223bab8a-71bd-4ff7-9848-3dc79ba13a8b": {
+  "x": -1867,
+  "y": -398
+ },
+ "27045cf7-d295-4261-89c1-f4ceb17ecf01": {
+  "label": "videos",
+  "x": -1965,
+  "y": -263
+ },
+ "f8c9e79f-94f7-4dec-8936-bebcddb141a9": {
+  "label": "github-repositories",
+  "x": -1648,
+  "y": -348
+ },
+ "da4deaaa-6cc9-4e77-b9a9-af9567ccb029": {
+  "label": "awards",
+  "x": -1905,
+  "y": -564
+ },
+ "ef8f05fb-e87a-41cb-bf32-db136c06253f": {
+  "x": -1659,
+  "y": -501
+ }
+}

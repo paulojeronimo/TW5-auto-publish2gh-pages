@@ -1,6 +1,7 @@
 created: 20190807153451836
-modified: 20190807202707675
+modified: 20190813174304270
 title: Trading
+tmap.id: 77c5aa34-4a13-4439-88db-29ed42a770ea
 type: text/vnd.tiddlywiki
 
 Beyond {{my work}} as a [[software developer|Software Development]],
@@ -8,3 +9,5 @@ I am also improving my skills in [[Trading|https://en.wikibooks.org/wiki/Trading
 
 Currently, I'm studying and doing Trading to make money and {{support myself financially}}. My areas of study are:
 <<list-links "[tag[$(currentTiddler)$]sort[title]]">>
+
+[[My essencial rules when Trading|my-trading-essential-rules]]

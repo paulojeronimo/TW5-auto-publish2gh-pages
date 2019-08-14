@@ -1,9 +1,12 @@
+caption: My current goals
 color: #0432ff
 created: 20190530124401110
-modified: 20190801210530077
-revision: 0
+modified: 20190814192743826
 tags: TableOfContents
 title: Current goals
+tmap.edges: {"e7d25958-e6d9-4098-a03a-e8323d54fa0e":{"to":"378a437c-e545-40b7-bb32-932f03e7e755","type":"includes"},"4be6c217-fac8-42dc-8954-d041b1582d21":{"to":"86713b3c-4a8d-4d6e-b10b-255094ee273f","type":"includes"},"166600ec-029f-4dc0-8a51-adc597f0e082":{"to":"77c5aa34-4a13-4439-88db-29ed42a770ea","type":"includes"},"7de18664-773d-4c57-a004-186613952fc3":{"to":"0c2bb208-03ae-4df1-8338-a0c4aba44f4f","type":"are determined for"},"d2067d10-ac54-4a87-ac0b-29442b9fd17e":{"to":"7265acab-407b-4024-8c17-d5462432c927","type":"are organized"},"f5f23a40-c1b1-439d-8adc-dd98ccb2720d":{"to":"13c1f521-cf28-4d8b-a4a6-30f3934e5121","type":"includes"}}
+tmap.id: 1bb8d0c3-3314-4c69-8310-d9ee291adead
+tmap.style: {"color":"#0432ff"}
 type: text/vnd.tiddlywiki
 
 {{CurrentWeek}}

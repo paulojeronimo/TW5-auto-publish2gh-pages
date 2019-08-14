@@ -1,0 +1,26 @@
+created: 20190813150136335
+modified: 20190813174303954
+tags: mdx-deck
+title: mdx-deck references
+tmap.id: 804c5687-014f-43f7-8911-5de5e41f1b79
+type: text/vnd.tiddlywiki
+
+* Videos:
+** https://egghead.io/lessons/react-build-a-slide-deck-with-mdx-deck-using-markdown-react 
+** https://www.youtube.com/watch?v=LvP2EqCiQMg
+** https://www.youtube.com/watch?v=e7iVpOliFuk
+** https://www.youtube.com/watch?v=UW6YycsYzHY&feature=youtu.be&t=660
+* Examples:
+** https://github.com/pomber/code-surfer
+** https://github.com/kalaspuffar/mdx-deck-example
+** https://github.com/infiniteluke/components-as-data-presentation
+** https://github.com/tgallacher/docker-field-guide-workshop
+** https://github.com/chrishutchinson/talk-react-testing-library
+** https://github.com/naomiHauret/css2019-a-never-ending-war
+** https://github.com/JMPerez/lazy-loading-talk
+** https://github.com/jagretz/sensational-slides-with-mdx-deck
+** https://github.com/ericadamski/tdd-in-react
+** From Brazilian guys:
+*** https://github.com/alexandref93/talk-about-react-hook
+*** https://github.com/raisiqueira/yarn-workspaces-presentation
+*** https://github.com/tibuurcio/react-imd-2018

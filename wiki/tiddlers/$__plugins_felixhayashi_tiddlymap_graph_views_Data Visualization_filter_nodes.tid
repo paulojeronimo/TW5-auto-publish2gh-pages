@@ -1,0 +1,6 @@
+created: 20190814173431556
+filter:  [field:tmap.id[5fd55466-425d-4663-9489-4c49761bc9a6]]  [field:tmap.id[0cf9d125-72f7-473b-90f3-7ec8fcdde2e6]] [field:tmap.id[560df33c-b076-4051-af65-a6e78b82350b]] [field:tmap.id[f33b28b0-f0f9-4c2b-bd5a-4bb623bac3dd]] [field:tmap.id[306b4595-9951-452a-af3f-93f1fb521de0]] [field:tmap.id[8e782b2d-923e-473a-832f-3c99b88e81a8]] [field:tmap.id[f438b34c-d02c-4cf6-b351-ce5ccd3c7f9c]] [field:tmap.id[ce0d82b1-87d3-4a61-8991-01498faeb022]] [field:tmap.id[f246a90d-a56e-422f-848a-3c5d17bff42e]] [field:tmap.id[4a8b744a-4750-421b-9d78-4e46285e0d09]]  [field:tmap.id[73a77f45-b664-403c-b03a-21f76a64629a]] [field:tmap.id[be41dfe1-f83b-4ebb-aa44-9fc461450808]] [field:tmap.id[059ae628-824c-402a-ae57-02ae51dbd372]] [field:tmap.id[a7f3ea90-ef90-4412-bba5-834c8c8e6fe7]] [field:tmap.id[d5eed3e6-282f-4fbd-86c5-fb64fce4d253]] [field:tmap.id[4a3b7d59-19b0-412b-bd0d-9830115b9752]] [field:tmap.id[fbddfb6a-f9ce-49ff-8fd0-32b76879880a]] [field:tmap.id[e11d0314-6190-4fee-90f9-9092b86f5478]] [field:tmap.id[b4314d1e-ccb5-4938-a23e-665536c58ef7]] [field:tmap.id[af297f94-626f-43c8-bc2f-e4e7bf23d4a8]] [field:tmap.id[378a437c-e545-40b7-bb32-932f03e7e755]]
+modified: 20190814191837179
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/Data Visualization/filter/nodes
+type: text/vnd.tiddlywiki
+
