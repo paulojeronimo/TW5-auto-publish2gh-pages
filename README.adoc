@@ -28,6 +28,15 @@ $ ./scripts/local listen
 
 Open the browser on http://localhost:8080 and edit the wiki.
 
+[NOTE]
+====
+If you need, you can switch the port that will be listened starting the command this way:
+
+----
+$ WIKI_PORT=8081 ./scripts/local listen
+----
+====
+
 To stop the TiddlyWiki execution just press kbd:[Ctrl+C].
 
 === Loading the wiki from a file
