@@ -1,6 +1,7 @@
+caption: ---> Toogle Admin
 created: 20170612201324999
-modified: 20190807222503304
-tags: 
+modified: 20190816210736838
+tags: TableOfContents
 title: $:/tools/ToggleAdmin
 type: text/vnd.tiddlywiki
 
@@ -22,7 +23,10 @@ type: text/vnd.tiddlywiki
 <$action-setfield $tiddler="$:/config/ViewToolbarButtons/Visibility/$:/core/ui/Buttons/permaview" text="hide"/>
 <$action-setfield $tiddler="$:/config/ViewToolbarButtons/Visibility/$:/core/ui/Buttons/open-window" text="hide"/>
 <$action-setfield $tiddler="$:/config/ViewToolbarButtons/Visibility/$:/core/ui/Buttons/close-others" text="show"/>
+
 <$action-setfield $tiddler="$:/config/ViewToolbarButtons/Visibility/$:/plugins/danielo/encryptTiddler/crypt-button" text="hide"/>
+<$action-setfield $tiddler="$:/config/ViewToolbarButtons/Visibility/$:/plugins/felixhayashi/tiddlymap/misc/quickConnectButton" text="hide"/>
+
 <$action-setfield $tiddler="$:/config/ViewToolbarButtons/Visibility/$:/core/ui/Buttons/close" text="show"/>
 <$action-setfield $tiddler="$:/config/ViewToolbarButtons/Visibility/$:/core/ui/Buttons/fold-others" text="hide"/>
 <$action-setfield $tiddler="$:/config/ViewToolbarButtons/Visibility/$:/core/ui/Buttons/fold" text="hide"/>
@@ -74,7 +78,10 @@ Read Only Mode
 <$action-setfield $tiddler="$:/config/ViewToolbarButtons/Visibility/$:/core/ui/Buttons/permaview" text="hide"/>
 <$action-setfield $tiddler="$:/config/ViewToolbarButtons/Visibility/$:/core/ui/Buttons/open-window" text="hide"/>
 <$action-setfield $tiddler="$:/config/ViewToolbarButtons/Visibility/$:/core/ui/Buttons/close-others" text="show"/>
+
 <$action-setfield $tiddler="$:/config/ViewToolbarButtons/Visibility/$:/plugins/danielo/encryptTiddler/crypt-button" text="show"/>
+<$action-setfield $tiddler="$:/config/ViewToolbarButtons/Visibility/$:/plugins/felixhayashi/tiddlymap/misc/quickConnectButton" text="show"/>
+
 <$action-setfield $tiddler="$:/config/ViewToolbarButtons/Visibility/$:/core/ui/Buttons/close" text="show"/>
 <$action-setfield $tiddler="$:/config/ViewToolbarButtons/Visibility/$:/core/ui/Buttons/fold-others" text="hide"/>
 <$action-setfield $tiddler="$:/config/ViewToolbarButtons/Visibility/$:/core/ui/Buttons/fold" text="hide"/>

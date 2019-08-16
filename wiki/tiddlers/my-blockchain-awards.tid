@@ -1,5 +1,6 @@
 created: 20190814174749786
-modified: 20190814181954577
+inner-title: Awards
+modified: 20190816191847975
 tags: Blockchain
 title: my-blockchain-awards
 tmap.fa-icon: f005
@@ -7,5 +8,6 @@ tmap.id: da4deaaa-6cc9-4e77-b9a9-af9567ccb029
 tmap.style: {}
 type: text/vnd.tiddlywiki
 
+!!!{{!!inner-title}}:
 * [[Mobility Hack Lisbon (November 17th-18th)|https://mobilityhacklisbon.io/]] [[3rd prize (2.000 €)|https://www.linkedin.com/feed/update/urn:li:activity:6469991993987653633]]
 ** ~GitHub: <<myGitHubRepo mobilityhacklisbon>> (the first version of our {{Ethereum}} project with backend, written during the Hackathon, in {{Kotlin}} and frontend in {{React}}).

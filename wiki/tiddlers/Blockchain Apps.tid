@@ -1,7 +1,7 @@
 created: 20190814193026577
-modified: 20190814193844058
+modified: 20190816185516583
 title: Blockchain Apps
-tmap.edges: {"c69e15da-7a3c-4a60-a7f5-f1eb60a02d75":{"to":"50f89118-04d8-44e5-9b8d-a1c88f1de3ac","type":"uses"},"6932d6fe-1a64-4619-8676-bd4a0f84064b":{"to":"f8c9e79f-94f7-4dec-8936-bebcddb141a9","type":"are published on"}}
+tmap.edges: {"c69e15da-7a3c-4a60-a7f5-f1eb60a02d75":{"to":"50f89118-04d8-44e5-9b8d-a1c88f1de3ac","type":"uses"},"10639e9c-4a19-483a-8cb2-ebfcfb8d5be5":{"to":"19a7f952-8d18-4422-8155-29ed3cdd5c1c","type":"are published on"}}
 tmap.id: ef8f05fb-e87a-41cb-bf32-db136c06253f
 tmap.style: {}
 type: text/vnd.tiddlywiki

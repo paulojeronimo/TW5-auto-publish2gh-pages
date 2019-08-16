@@ -1,6 +1,7 @@
 created: 20190730181119216
-modified: 20190813174304250
+modified: 20190814235508519
 title: VX
+tmap.edges: {"0986cd59-7f32-4510-b359-29ead5b9c01f":{"to":"a7f3ea90-ef90-4412-bba5-834c8c8e6fe7","type":"uses"}}
 tmap.id: e11d0314-6190-4fee-90f9-9092b86f5478
 type: text/vnd.tiddlywiki
 

@@ -1,11 +1,30 @@
 created: 20190813134553013
-modified: 20190813185407058
+modified: 20190816212301827
 tags: mdx-deck ES6 Babel Week npmjs.com np
 title: 1933
 tmap.id: c692d6c1-f913-4059-baf8-f6636188a9f0
 type: text/vnd.tiddlywiki
 
 !!! Week 33 in 2019 (Aug 12 - Aug 18)
+!!! Friday:
+* Morning:
+** [[Brasilia Cidade Design|https://bcd2019.com.br/]] event visited ([[Hackathon Blockchain - Cotidiano|https://cotidiano.com.br/hackathon-blockchain-cotidiano-summit-2019/]]).
+!!! Thursday:
+* Reviewed:
+** {{ethereum-helloworld}}
+* Created:
+** {{ethereum-private-network-tutorial}}.
+!!! Wednesday:
+* Finished to update and review the following:
+** {{ethereum-pet-shop-tutorial}}.
+** {{ethereum-pet-shop}}.
+* Updated my wiki:
+** Created [[my first TiddlyWiki template|$:/paulojeronimo/templates/youtube]].
+** Installed [[TiddlyMap]].
+*** Many views created.
+!!! Tuesday:
+* Morning:
+** [[Trading]] and [[Trading Study]]
 !!! Monday:
 * Studied about how to produce npm packages using {{npmjs.com}}, {{ES6}} syntax, {{np}} and {{Babel}}.
 ** Built some projects:

@@ -1,18 +1,13 @@
 created: 20190813101401605
-modified: 20190814174935976
+modified: 20190816195251427
 tags: Ethereum Blockchain
 title: my-blockchain-things
-tmap.edges: {"210d7f15-dac7-4d30-a746-404ca5ffb8d7":{"to":"27045cf7-d295-4261-89c1-f4ceb17ecf01","type":"includes"},"4afe508c-7866-4f92-b896-0d52131e1700":{"to":"f8c9e79f-94f7-4dec-8936-bebcddb141a9","type":"includes"},"12e2e329-d9d6-42ee-83d9-afc1dbea3807":{"to":"da4deaaa-6cc9-4e77-b9a9-af9567ccb029","type":"includes"}}
+tmap.edges: {"210d7f15-dac7-4d30-a746-404ca5ffb8d7":{"to":"27045cf7-d295-4261-89c1-f4ceb17ecf01","type":"includes"},"4afe508c-7866-4f92-b896-0d52131e1700":{"to":"f8c9e79f-94f7-4dec-8936-bebcddb141a9","type":"includes"},"12e2e329-d9d6-42ee-83d9-afc1dbea3807":{"to":"da4deaaa-6cc9-4e77-b9a9-af9567ccb029","type":"includes"},"33089300-b0e1-4f36-8b77-e336d0304101":{"to":"d40c494f-ec6a-4eb5-9ce3-1a96b50af9f1","type":"ideas"},"0183d56d-a05e-48a2-87b8-8d1c402d97e4":{"to":"19a7f952-8d18-4422-8155-29ed3cdd5c1c","type":"includes"},"358c1819-d613-4600-8ec4-42791d2f1cb4":{"to":"11316509-965e-425a-adc1-f31475c68b11","type":"includes"},"da0c6542-fd87-42ed-a43e-13a949976c8e":{"to":"9e591ebd-f59a-4f35-984f-0f9f61475e64","type":"includes"}}
 tmap.id: 223bab8a-71bd-4ff7-9848-3dc79ba13a8b
 type: text/vnd.tiddlywiki
 
-!!! Awards:
-{{my-blockchain-awards}}
-!!! ~GitHub projects:
-{{my-blockchain-repositories}}
-!!! Articles & Tutorials:
-* [[Blockchain: Uma visualização gráfica|https://blockchain4devs.github.io/blockchain-demo/docs/pt-br/]] //({{pt-br}})//
-!!! Videos:
-{{my-blockchain-videos}}
-!!! Presentations:
-* [[Blockchain para desenvolvedores Java|https://blockchain4devs.github.io/dfjug1ano]] //({{pt-br}})//
+<$list filter="[prefix[my-blockchain]!suffix[-things]sort[title]]">
+
+<$transclude/>
+
+</$list>

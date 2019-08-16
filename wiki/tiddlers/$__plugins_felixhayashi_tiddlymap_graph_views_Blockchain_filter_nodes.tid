@@ -1,6 +1,6 @@
 created: 20190813204236275
-filter:  [field:tmap.id[50f89118-04d8-44e5-9b8d-a1c88f1de3ac]] [field:tmap.id[fe294c7a-3dae-4e8f-8833-f1c503f4a1dc]] [field:tmap.id[5c407676-1e86-4dd8-9f8c-f5a4c2e58511]] [field:tmap.id[e9938548-6dc8-45a1-a6d9-2cc235011015]] [field:tmap.id[378a437c-e545-40b7-bb32-932f03e7e755]] [field:tmap.id[6ebe38a4-3d49-4b62-802e-fe549d81f061]] [field:tmap.id[223bab8a-71bd-4ff7-9848-3dc79ba13a8b]] [field:tmap.id[27045cf7-d295-4261-89c1-f4ceb17ecf01]] [field:tmap.id[f8c9e79f-94f7-4dec-8936-bebcddb141a9]] [field:tmap.id[da4deaaa-6cc9-4e77-b9a9-af9567ccb029]] [field:tmap.id[ef8f05fb-e87a-41cb-bf32-db136c06253f]]
-modified: 20190814193401908
+filter: [field:tmap.id[50f89118-04d8-44e5-9b8d-a1c88f1de3ac]] [field:tmap.id[fe294c7a-3dae-4e8f-8833-f1c503f4a1dc]] [field:tmap.id[5c407676-1e86-4dd8-9f8c-f5a4c2e58511]] [field:tmap.id[e9938548-6dc8-45a1-a6d9-2cc235011015]] [field:tmap.id[378a437c-e545-40b7-bb32-932f03e7e755]] [field:tmap.id[6ebe38a4-3d49-4b62-802e-fe549d81f061]] [field:tmap.id[223bab8a-71bd-4ff7-9848-3dc79ba13a8b]] [field:tmap.id[27045cf7-d295-4261-89c1-f4ceb17ecf01]]  [field:tmap.id[da4deaaa-6cc9-4e77-b9a9-af9567ccb029]] [field:tmap.id[ef8f05fb-e87a-41cb-bf32-db136c06253f]] [field:tmap.id[1bb8d0c3-3314-4c69-8310-d9ee291adead]]  [field:tmap.id[d40c494f-ec6a-4eb5-9ce3-1a96b50af9f1]] [field:tmap.id[19a7f952-8d18-4422-8155-29ed3cdd5c1c]] [field:tmap.id[11316509-965e-425a-adc1-f31475c68b11]] [field:tmap.id[9e591ebd-f59a-4f35-984f-0f9f61475e64]]
+modified: 20190816191149329
 title: $:/plugins/felixhayashi/tiddlymap/graph/views/Blockchain/filter/nodes
 type: text/vnd.tiddlywiki
 

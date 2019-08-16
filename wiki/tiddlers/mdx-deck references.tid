@@ -1,7 +1,8 @@
 created: 20190813150136335
-modified: 20190813174303954
+modified: 20190815105751210
 tags: mdx-deck
 title: mdx-deck references
+tmap.edges: {"5812c8e4-4bbd-4492-a46e-6073bd24d012":{"to":"523e8b21-e096-4a43-84aa-d635fe381be2","type":"show examples about using"}}
 tmap.id: 804c5687-014f-43f7-8911-5de5e41f1b79
 type: text/vnd.tiddlywiki
 
@@ -24,3 +25,5 @@ type: text/vnd.tiddlywiki
 *** https://github.com/alexandref93/talk-about-react-hook
 *** https://github.com/raisiqueira/yarn-workspaces-presentation
 *** https://github.com/tibuurcio/react-imd-2018
+* Tools:
+** {{Vim}} support: https://github.com/jxnblk/vim-mdx-js

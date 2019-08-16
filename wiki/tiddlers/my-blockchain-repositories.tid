@@ -1,10 +1,15 @@
 created: 20190814164525864
-modified: 20190814164738451
+inner-title: ~GitHub repositories
+modified: 20190816192237038
 tags: Blockchain
 title: my-blockchain-repositories
+tmap.edges: {"10c36b88-9c26-4128-b3f4-f24d5629f06c":{"to":"f8c9e79f-94f7-4dec-8936-bebcddb141a9","type":"includes"}}
+tmap.fa-icon: f09b
 tmap.id: 19a7f952-8d18-4422-8155-29ed3cdd5c1c
+tmap.style: {}
 type: text/vnd.tiddlywiki
 
+!!!{{!!inner-title}}:
 * Ethereum: {{my-ethereum-repositories}}
 * Blockchain fundamentals:
 ** <<gitHubRepo blockchain4devs/blockchain-demo>>

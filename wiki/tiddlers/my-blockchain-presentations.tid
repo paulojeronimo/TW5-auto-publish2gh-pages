@@ -1,0 +1,11 @@
+created: 20190816190832111
+inner-title: Presentations
+modified: 20190816192809789
+tags: Group Blockchain
+title: my-blockchain-presentations
+tmap.id: 9e591ebd-f59a-4f35-984f-0f9f61475e64
+tmap.style: {}
+type: text/vnd.tiddlywiki
+
+!!!{{!!inner-title}}:
+* [[Blockchain para desenvolvedores Java|https://blockchain4devs.github.io/dfjug1ano]] //({{pt-br}})//

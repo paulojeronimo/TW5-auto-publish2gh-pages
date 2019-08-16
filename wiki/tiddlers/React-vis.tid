@@ -1,7 +1,7 @@
 created: 20190730193919123
-modified: 20190814172146667
+modified: 20190814235435957
 title: React-vis
-tmap.edges: {}
+tmap.edges: {"6ad87d92-2cda-427d-9f92-2b5a36209b9b":{"to":"a7f3ea90-ef90-4412-bba5-834c8c8e6fe7","type":"uses"}}
 tmap.id: 059ae628-824c-402a-ae57-02ae51dbd372
 type: text/vnd.tiddlywiki
 

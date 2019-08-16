@@ -1,0 +1,11 @@
+created: 20190816174942365
+inner-title: Ideas
+modified: 20190816210302227
+tags: Idea Blockchain
+title: my-blockchain-ideas
+tmap.id: d40c494f-ec6a-4eb5-9ce3-1a96b50af9f1
+tmap.style: {}
+type: text/vnd.tiddlywiki
+
+!!!{{!!inner-title}}:
+<<list-links "[tag[Blockchain]tag[Idea]!title[$(currentTiddler)$]sort[title]]">>

@@ -1,0 +1,8 @@
+created: 20190814234415489
+modified: 20190816212604433
+title: TiddlyMap
+tmap.edges: {"93c007d4-b912-47ee-a154-822f8e584961":{"to":"7709a765-4a8e-4352-a396-f872360b3d30","type":"uses"}}
+tmap.id: 64bf6a1d-3259-4791-8ad8-20376bed8e55
+type: text/vnd.tiddlywiki
+
+[[TiddlyMap|$:/plugins/felixhayashi/tiddlymap]]

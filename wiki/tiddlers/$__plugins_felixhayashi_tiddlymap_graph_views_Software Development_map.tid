@@ -1,12 +1,12 @@
 created: 20190813184037662
-modified: 20190814193844054
+modified: 20190816185907659
 title: $:/plugins/felixhayashi/tiddlymap/graph/views/Software Development/map
 type: text/vnd.tiddlywiki
 
 {
  "378a437c-e545-40b7-bb32-932f03e7e755": {
-  "x": -1513,
-  "y": -703
+  "x": -1533,
+  "y": -642
  },
  "c2e2eb22-413c-406b-9f9e-eaf98dac4eff": {
   "x": -1551,
@@ -33,16 +33,16 @@ type: text/vnd.tiddlywiki
   "y": -497
  },
  "149ea3ac-3f26-4fea-87e5-9f4fa7c91f4f": {
-  "x": -1290,
-  "y": -637
+  "x": -1292,
+  "y": -609
  },
  "ef1a3989-a234-4e7e-9c02-9e4c86c25d19": {
-  "x": -1025,
+  "x": -1155,
   "y": -668
  },
  "c7006f76-8b69-4819-8bf0-aae6c3325e0e": {
-  "x": -1258,
-  "y": -760
+  "x": -1505,
+  "y": -718
  },
  "04b8bdb0-9e92-4147-aff4-1f83ef5ceadd": {
   "x": -1002,
@@ -53,8 +53,8 @@ type: text/vnd.tiddlywiki
   "y": -620
  },
  "f8c9e79f-94f7-4dec-8936-bebcddb141a9": {
-  "x": -1512,
-  "y": -820
+  "x": -1312,
+  "y": -773
  },
  "3e5ffbfa-fd53-4af3-a939-88bd1ec4bc72": {
   "x": -1140,
@@ -78,8 +78,8 @@ type: text/vnd.tiddlywiki
  },
  "5fd55466-425d-4663-9489-4c49761bc9a6": {
   "open-view": "Data Visualization",
-  "x": -1787,
-  "y": -593
+  "x": -1824,
+  "y": -586
  },
  "1bb8d0c3-3314-4c69-8310-d9ee291adead": {
   "open-view": "Default",
@@ -88,7 +88,11 @@ type: text/vnd.tiddlywiki
  },
  "ef8f05fb-e87a-41cb-bf32-db136c06253f": {
   "open-view": "Blockchain",
-  "x": -1821,
-  "y": -686
+  "x": -1870,
+  "y": -715
+ },
+ "19a7f952-8d18-4422-8155-29ed3cdd5c1c": {
+  "x": -1702,
+  "y": -791
  }
 }

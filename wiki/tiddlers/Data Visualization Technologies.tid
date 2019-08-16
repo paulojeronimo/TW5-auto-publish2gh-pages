@@ -1,7 +1,7 @@
 created: 20190814171229831
-modified: 20190814173509202
+modified: 20190814235835907
 title: Data Visualization Technologies
-tmap.edges: {"0d6b9be9-7594-4035-abdd-7019f5ac7f8f":{"to":"73a77f45-b664-403c-b03a-21f76a64629a","type":"based on"},"bbc365e9-f0e0-4b51-b8e8-583c628d9aba":{"to":"be41dfe1-f83b-4ebb-aa44-9fc461450808","type":"based on"},"019fbd35-cd01-434b-bed0-bc044593ddc7":{"to":"fbddfb6a-f9ce-49ff-8fd0-32b76879880a","type":"based on"},"125007b1-4615-42f4-9f81-b7dd62d5a9ff":{"to":"af297f94-626f-43c8-bc2f-e4e7bf23d4a8","type":"based on"}}
+tmap.edges: {"0d6b9be9-7594-4035-abdd-7019f5ac7f8f":{"to":"73a77f45-b664-403c-b03a-21f76a64629a","type":"based on"},"019fbd35-cd01-434b-bed0-bc044593ddc7":{"to":"fbddfb6a-f9ce-49ff-8fd0-32b76879880a","type":"based on"},"125007b1-4615-42f4-9f81-b7dd62d5a9ff":{"to":"af297f94-626f-43c8-bc2f-e4e7bf23d4a8","type":"based on"},"e62a320f-f799-467c-b936-1d7b444a496c":{"to":"a7f3ea90-ef90-4412-bba5-834c8c8e6fe7","type":"based on"},"1fe04ab4-d6fd-4606-89d4-af4dd464557e":{"to":"7709a765-4a8e-4352-a396-f872360b3d30","type":"based on"}}
 tmap.id: f246a90d-a56e-422f-848a-3c5d17bff42e
 tmap.style: {}
 type: text/vnd.tiddlywiki

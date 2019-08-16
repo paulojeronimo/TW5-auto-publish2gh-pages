@@ -1,0 +1,8 @@
+created: 20190815094850790
+modified: 20190815094952117
+tags: Solidity [[I Wrote]] [[GitHub Repo]] Ethereum
+title: ethereum-pet-shop
+tmap.id: df91b17f-e1df-4eb2-9655-91dc1b95ff67
+type: text/vnd.tiddlywiki
+
+<<myGitHubRepo $(currentTiddler)$>>

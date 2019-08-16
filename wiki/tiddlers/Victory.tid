@@ -1,6 +1,7 @@
 created: 20190712151042480
-modified: 20190813174304256
+modified: 20190814235452190
 title: Victory
+tmap.edges: {"6930c5d3-492c-44d2-82f7-22884abc16ec":{"to":"a7f3ea90-ef90-4412-bba5-834c8c8e6fe7","type":"uses"}}
 tmap.id: d5eed3e6-282f-4fbd-86c5-fb64fce4d253
 type: text/vnd.tiddlywiki
 
