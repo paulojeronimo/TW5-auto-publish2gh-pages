@@ -1,10 +1,10 @@
 caption: Examples
 created: 20190808071922187
-modified: 20190813174304085
+modified: 20190820011129124
 tags: [[Data Visualization Tab]] [[Data Visualization]]
 title: Data Visualization Examples
 tmap.id: cf7238fe-2e08-4a4c-beb9-69ac4dfcc406
 type: text/vnd.tiddlywiki
 
-* My Code: <<list-links "[tag[Data Visualization Example]tag[My Code]]">>
-* Other: <<list-links "[tag[Data Visualization Example]!tag[My Code]]">>
+* My Code: <<list-links "[tag[Data Visualization Example]tag[I Wrote]]">>
+* Other: <<list-links "[tag[Data Visualization Example]!tag[I Wrote]]">>

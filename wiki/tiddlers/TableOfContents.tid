@@ -1,7 +1,7 @@
 caption: {{$:/language/SideBar/Contents/Caption}}
 created: 20190529203639355
 list-before: $:/core/ui/SideBar/Open
-modified: 20190813174304284
+modified: 20190820010033820
 tags: $:/tags/SideBar
 title: TableOfContents
 tmap.id: 5b96b764-6377-468f-b33d-82d6f9f37b52
@@ -12,3 +12,5 @@ type: text/vnd.tiddlywiki
 <<toc-selective-expandable 'TableOfContents' 'sort[title]'>>
 
 </div>
+
+{{$:/tools/ToggleAdmin}}
