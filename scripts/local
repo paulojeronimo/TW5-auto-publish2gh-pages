@@ -8,6 +8,8 @@ source "$BASE_DIR"/common
 check-tiddlywiki
 
 _build() {
+  local output=$WIKI_BASE_DIR/$WIKI/output
+  [ -d "$output" ] && rm -rf "$output"
   # https://tiddlywiki.com/static/BuildCommand.html
   tiddlywiki $WIKI --build
 }
