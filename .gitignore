@@ -2,3 +2,4 @@
 /wiki/output
 /.travis.variables
 /wiki/tiddlers/$__StoryList.tid
+/node_modules

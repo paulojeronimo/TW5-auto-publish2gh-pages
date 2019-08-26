@@ -23,25 +23,17 @@ log=$log_dir/`date +%s`.log
   echo "Configurations loaded from \"$cfg\" ..."
 } | tee -a $log
 
-check-npm-cmd() {
-  type $1 &> /dev/null || {
-    echo "$1 is not installed!"
-    echo "Try run this: \"npm install -g $1\""
-    exit 1
-  }
-}
-
-check-serve() {
-  check-npm-cmd serve
-}
-
-check-tiddlywiki() {
-  check-npm-cmd tiddlywiki
-}
-
 list-tasks() {
   local tasks=$(sed -n 's/_\(.*\)() {/\1/p' $0 | tr '\n' '|')
   echo -n ${tasks%?}
+}
+
+tiddlywiki() {
+  npx tiddlywiki "$@"
+}
+
+serve() {
+  npx serve "$@"
 }
 
 main() {

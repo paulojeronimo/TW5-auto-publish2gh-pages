@@ -4,9 +4,6 @@ set +x
 BASE_DIR=`cd "$(dirname "$0")"; pwd`
 source "$BASE_DIR"/common
 
-check-tiddlywiki
-check-serve
-
 _build() {
   tiddlywiki $WIKI --rendertiddlers [!is[system]] $:/core/templates/static.tiddler.html static text/plain
 }

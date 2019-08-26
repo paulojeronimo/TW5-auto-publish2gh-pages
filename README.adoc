@@ -20,9 +20,10 @@ Basically, the link:scripts/publish[publish script] (configured and called by Tr
 
 It may be a good idea to edit and see this wiki locally before publish it to GitHub Pages.
 
-To do this, you need to install https://tiddlywiki.com/static/TiddlyWiki%2520on%2520Node.js.html[Tiddlywiki Node.js^] package (`npm install -g tiddlywiki`) and run the link:scripts/local[local script] as in the following command:
+To do this, you need to install the depencies (`npm install`) and run the link:scripts/local[local script] as in the following command:
 
 ----
+$ npm install
 $ ./scripts/local listen
 ----
 

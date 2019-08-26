@@ -5,8 +5,6 @@ $DEBUG && set -x || set +x
 BASE_DIR=`cd "$(dirname "$0")"; pwd`
 source "$BASE_DIR"/common
 
-check-tiddlywiki
-
 _build() {
   local output=$WIKI_BASE_DIR/$WIKI/output
   [ -d "$output" ] && rm -rf "$output"

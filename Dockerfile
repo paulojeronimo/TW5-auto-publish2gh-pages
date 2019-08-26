@@ -1,6 +1,6 @@
 FROM node:alpine
 
-ENV TIDDLYWIKI_VERSION=5.1.20
+ARG TIDDLYWIKI_VERSION
 
 RUN apk add --no-cache tini
 RUN npm install -g tiddlywiki@${TIDDLYWIKI_VERSION}

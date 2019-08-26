@@ -1,0 +1,25 @@
+{
+  "name": "wiki",
+  "version": "1.0.0",
+  "description": "Paulo Jerônimo's wiki",
+  "main": "index.js",
+  "scripts": {
+    "build": "tiddlywiki wiki --build",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/paulojeronimo/wiki.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/paulojeronimo/wiki/issues"
+  },
+  "homepage": "https://paulojeronimo.github.com/wiki",
+  "devDependencies": {
+    "serve": "^11.1.0",
+    "tiddlywiki": "^5.1.19"
+  }
+}
